@@ -1,0 +1,1001 @@
+﻿date_played,home_team,away_team,home_score,away_score,city,country,Result
+1872-11-30,Scotland,England,0,0,Glasgow,Scotland,drawn
+1873-03-08,England,Scotland,4,2,London,England,England
+1874-03-07,Scotland,England,2,1,Glasgow,Scotland,Scotland
+1875-03-06,England,Scotland,2,2,London,England,drawn
+1876-03-04,Scotland,England,3,0,Glasgow,Scotland,Scotland
+1876-03-25,Scotland,Wales,4,0,Glasgow,Scotland,Scotland
+1877-03-03,England,Scotland,1,3,London,England,Scotland
+1877-03-05,Wales,Scotland,0,2,Wrexham,Wales,Scotland
+1878-03-02,Scotland,England,7,2,Glasgow,Scotland,Scotland
+1878-03-23,Scotland,Wales,9,0,Glasgow,Scotland,Scotland
+1879-01-18,England,Wales,2,1,London,England,England
+1879-04-05,England,Scotland,5,4,London,England,England
+1879-04-07,Wales,Scotland,0,3,Wrexham,Wales,Scotland
+1880-03-13,Scotland,England,5,4,Glasgow,Scotland,Scotland
+1880-03-15,Wales,England,2,3,Wrexham,Wales,England
+1880-03-27,Scotland,Wales,5,1,Glasgow,Scotland,Scotland
+1881-02-26,England,Wales,0,1,Blackburn,England,Wales
+1881-03-12,England,Scotland,1,6,London,England,Scotland
+1881-03-14,Wales,Scotland,1,5,Wrexham,Wales,Scotland
+1882-02-18,Northern Ireland,England,0,13,Belfast,Republic of Ireland,England
+1882-02-25,Wales,Northern Ireland,7,1,Wrexham,Wales,Wales
+1882-03-11,Scotland,England,5,1,Glasgow,Scotland,Scotland
+1882-03-13,Wales,England,5,3,Wrexham,Wales,Wales
+1882-03-25,Scotland,Wales,5,0,Glasgow,Scotland,Scotland
+1883-02-03,England,Wales,5,0,London,England,England
+1883-02-24,England,Northern Ireland,7,0,Liverpool,England,England
+1883-03-10,England,Scotland,2,3,Sheffield,England,Scotland
+1883-03-12,Wales,Scotland,0,3,Wrexham,Wales,Scotland
+1883-03-17,Northern Ireland,Wales,1,1,Belfast,Republic of Ireland,drawn
+1884-01-26,Northern Ireland,Scotland,0,5,Belfast,Republic of Ireland,Scotland
+1884-02-09,Wales,Northern Ireland,6,0,Wrexham,Wales,Wales
+1884-02-23,Northern Ireland,England,1,8,Belfast,Republic of Ireland,England
+1884-03-15,Scotland,England,1,0,Glasgow,Scotland,Scotland
+1884-03-17,Wales,England,0,4,Wrexham,Wales,England
+1884-03-29,Scotland,Wales,4,1,Glasgow,Scotland,Scotland
+1885-02-28,England,Northern Ireland,4,0,Manchester,England,England
+1885-03-14,England,Wales,1,1,Blackburn,England,drawn
+1885-03-14,Scotland,Northern Ireland,8,2,Glasgow,Scotland,Scotland
+1885-03-21,England,Scotland,1,1,London,England,drawn
+1885-03-23,Wales,Scotland,1,8,Wrexham,Wales,Scotland
+1885-04-11,Northern Ireland,Wales,2,8,Belfast,Republic of Ireland,Wales
+1885-11-28,United States,Canada,0,1,Newark,United States,Canada
+1886-02-27,Wales,Northern Ireland,5,0,Wrexham,Wales,Wales
+1886-03-13,Northern Ireland,England,1,6,Belfast,Republic of Ireland,England
+1886-03-20,Northern Ireland,Scotland,2,7,Belfast,Republic of Ireland,Scotland
+1886-03-27,Scotland,England,1,1,Glasgow,Scotland,drawn
+1886-03-29,Wales,England,1,3,Wrexham,Wales,England
+1886-04-10,Scotland,Wales,4,1,Glasgow,Scotland,Scotland
+1886-11-25,United States,Canada,3,2,Newark,United States,United States
+1887-02-05,England,Northern Ireland,7,0,Sheffield,England,England
+1887-02-19,Scotland,Northern Ireland,4,1,Glasgow,Scotland,Scotland
+1887-02-26,England,Wales,4,0,London,England,England
+1887-03-12,Northern Ireland,Wales,4,1,Belfast,Republic of Ireland,Northern Ireland
+1887-03-19,England,Scotland,2,3,Blackburn,England,Scotland
+1887-03-21,Wales,Scotland,0,2,Wrexham,Wales,Scotland
+1888-02-04,England,Wales,5,1,Crewe,England,England
+1888-03-03,Wales,Northern Ireland,11,0,Wrexham,Wales,Wales
+1888-03-10,Scotland,Wales,5,1,Edinburgh,Scotland,Scotland
+1888-03-17,Scotland,England,0,5,Glasgow,Scotland,England
+1888-03-24,Northern Ireland,Scotland,2,10,Belfast,Republic of Ireland,Northern Ireland
+1888-04-07,Northern Ireland,England,1,5,Belfast,Republic of Ireland,England
+1888-09-19,Scotland,Canada,4,0,Glasgow,Scotland,Scotland
+1889-02-23,England,Wales,4,1,Stoke-on-Trent,England,England
+1889-03-02,England,Northern Ireland,6,1,Liverpool,England,England
+1889-03-09,Scotland,Northern Ireland,7,0,Glasgow,Scotland,Scotland
+1889-04-13,England,Scotland,2,3,London,England,Scotland
+1889-04-15,Wales,Scotland,0,0,Wrexham,Wales,drawn
+1889-04-27,Northern Ireland,Wales,1,3,Belfast,Republic of Ireland,Wales
+1890-02-08,Wales,Northern Ireland,5,2,Shrewsbury,England,Wales
+1890-03-15,Northern Ireland,England,1,9,Belfast,Republic of Ireland,England
+1890-03-15,Wales,England,1,3,Wrexham,Wales,England
+1890-03-22,Scotland,Wales,5,0,Paisley,Scotland,Scotland
+1890-03-29,Northern Ireland,Scotland,1,4,Belfast,Republic of Ireland,Scotland
+1890-04-05,Scotland,England,1,1,Glasgow,Scotland,drawn
+1891-02-07,Northern Ireland,Wales,7,2,Belfast,Republic of Ireland,Northern Ireland
+1891-03-07,England,Wales,4,1,Sunderland,England,England
+1891-03-07,England,Northern Ireland,6,1,Wolverhampton,England,England
+1891-03-21,Wales,Scotland,3,4,Wrexham,Wales,Scotland
+1891-03-28,Scotland,Northern Ireland,2,1,Glasgow,Scotland,Scotland
+1891-04-06,England,Scotland,2,1,Blackburn,England,England
+1892-02-27,Wales,Northern Ireland,1,1,Bangor,Wales,drawn
+1892-03-05,Northern Ireland,England,0,2,Belfast,Republic of Ireland,England
+1892-03-05,Wales,England,0,2,Wrexham,Wales,England
+1892-03-19,Northern Ireland,Scotland,2,3,Belfast,Republic of Ireland,Scotland
+1892-03-26,Scotland,Wales,6,1,Edinburgh,Scotland,Scotland
+1892-04-02,Scotland,England,1,4,Glasgow,Scotland,England
+1893-02-25,England,Northern Ireland,6,1,Birmingham,England,England
+1893-03-13,England,Wales,6,0,Stoke-on-Trent,England,England
+1893-03-18,Wales,Scotland,0,8,Wrexham,Wales,Scotland
+1893-03-25,Scotland,Northern Ireland,6,1,Glasgow,Scotland,Scotland
+1893-04-01,England,Scotland,5,2,Richmond,England,England
+1894-02-24,Wales,Northern Ireland,4,1,Swansea,Wales,Wales
+1894-03-03,Northern Ireland,England,2,2,Belfast,Republic of Ireland,drawn
+1894-03-12,Wales,England,1,5,Wrexham,Wales,England
+1894-03-24,Scotland,Wales,5,2,Kilmarnock,Scotland,Scotland
+1894-03-31,Northern Ireland,Scotland,1,2,Belfast,Republic of Ireland,Scotland
+1894-04-07,Scotland,England,2,2,Glasgow,Scotland,drawn
+1895-03-09,England,Northern Ireland,9,0,Derby,England,England
+1895-03-16,Northern Ireland,Wales,2,2,Belfast,Republic of Ireland,drawn
+1895-03-18,England,Wales,1,1,London,England,drawn
+1895-03-23,Wales,Scotland,2,2,Wrexham,Wales,drawn
+1895-03-30,Scotland,Northern Ireland,3,1,Glasgow,Scotland,Scotland
+1895-04-06,England,Scotland,3,0,Liverpool,England,England
+1896-02-29,Wales,Northern Ireland,6,1,Wrexham,Wales,Wales
+1896-03-07,Northern Ireland,England,0,2,Belfast,Republic of Ireland,England
+1896-03-16,Wales,England,1,9,Cardiff,Wales,England
+1896-03-21,Scotland,Wales,4,0,Dundee,Scotland,Scotland
+1896-03-28,Northern Ireland,Scotland,3,3,Belfast,Republic of Ireland,drawn
+1896-04-04,Scotland,England,2,1,Glasgow,Scotland,Scotland
+1897-02-20,England,Northern Ireland,6,0,Nottingham,England,England
+1897-03-06,Northern Ireland,Wales,4,3,Belfast,Republic of Ireland,Northern Ireland
+1897-03-20,Wales,Scotland,2,2,Wrexham,Wales,drawn
+1897-03-27,Scotland,Northern Ireland,5,1,Glasgow,Scotland,Scotland
+1897-03-29,England,Wales,4,0,Sheffield,England,England
+1897-04-03,England,Scotland,1,2,London,England,Scotland
+1898-02-19,Wales,Northern Ireland,0,1,Llandudno,Wales,Northern Ireland
+1898-03-05,Northern Ireland,England,2,3,Belfast,Republic of Ireland,England
+1898-03-19,Scotland,Wales,5,2,Motherwell,Scotland,Scotland
+1898-03-26,Northern Ireland,Scotland,0,3,Belfast,Republic of Ireland,Scotland
+1898-03-28,Wales,England,0,3,Wrexham,Wales,England
+1898-04-02,Scotland,England,1,3,Glasgow,Scotland,England
+1899-02-18,England,Northern Ireland,13,2,Sunderland,England,Northern Ireland
+1899-03-04,Northern Ireland,Wales,1,0,Belfast,Republic of Ireland,Northern Ireland
+1899-03-18,Wales,Scotland,0,6,Wrexham,Wales,Scotland
+1899-03-20,England,Wales,4,0,Bristol,England,England
+1899-03-25,Scotland,Northern Ireland,9,1,Glasgow,Scotland,Scotland
+1899-04-08,England,Scotland,2,1,Birmingham,England,England
+2/3/1900,Scotland,Wales,5,2,Aberdeen,Scotland,Scotland
+2/24/1900,Wales,Northern Ireland,2,0,Llandudno,Wales,Wales
+3/3/1900,Northern Ireland,Scotland,0,3,Belfast,Republic of Ireland,Scotland
+3/17/1900,Northern Ireland,England,0,2,Dublin,Republic of Ireland,England
+3/26/1900,Wales,England,1,1,Cardiff,Wales,drawn
+4/7/1900,Scotland,England,4,1,Glasgow,Scotland,Scotland
+2/23/1901,Scotland,Northern Ireland,11,0,Glasgow,Scotland,Scotland
+3/2/1901,Wales,Scotland,1,1,Wrexham,Wales,drawn
+3/9/1901,England,Northern Ireland,3,0,Southampton,England,England
+3/18/1901,England,Wales,6,0,Newcastle,England,England
+3/23/1901,Northern Ireland,Wales,0,1,Belfast,Republic of Ireland,Wales
+3/30/1901,England,Scotland,2,2,London,England,drawn
+2/22/1902,Wales,Northern Ireland,0,3,Cardiff,Wales,Northern Ireland
+3/1/1902,Northern Ireland,Scotland,1,5,Belfast,Republic of Ireland,Scotland
+3/3/1902,Wales,England,0,0,Wrexham,Wales,drawn
+3/15/1902,Scotland,Wales,5,1,Greenock,Scotland,Scotland
+3/22/1902,Northern Ireland,England,0,1,Belfast,Republic of Ireland,England
+5/3/1902,England,Scotland,2,2,Birmingham,England,drawn
+7/20/1902,Uruguay,Argentina,0,6,Montevideo,Uruguay,Argentina
+10/12/1902,Austria,Hungary,5,0,Vienna,Austria,Austria
+2/14/1903,England,Northern Ireland,4,0,Wolverhampton,England,England
+3/2/1903,England,Wales,2,1,Portsmouth,England,England
+3/9/1903,Wales,Scotland,0,1,Cardiff,Wales,Scotland
+3/21/1903,Scotland,Northern Ireland,0,2,Glasgow,Scotland,Northern Ireland
+3/28/1903,Northern Ireland,Wales,2,0,Belfast,Republic of Ireland,Northern Ireland
+4/4/1903,England,Scotland,1,2,Sheffield,England,Scotland
+4/5/1903,Hungary,Czechoslovakia,2,1,Budapest,Hungary,Hungary
+9/13/1903,Argentina,Uruguay,2,3,Buenos Aires,Argentina,Uruguay
+10/11/1903,Austria,Hungary,4,2,Vienna,Austria,Austria
+2/29/1904,Wales,England,2,2,Wrexham,Wales,drawn
+3/12/1904,Northern Ireland,England,1,3,Belfast,Republic of Ireland,England
+3/12/1904,Scotland,Wales,1,1,Dundee,Scotland,drawn
+3/21/1904,Wales,Northern Ireland,0,1,Bangor,Wales,Northern Ireland
+3/26/1904,Northern Ireland,Scotland,1,1,Dublin,Republic of Ireland,drawn
+4/9/1904,Scotland,England,0,1,Glasgow,Scotland,England
+5/1/1904,Belgium,France,3,3,Brussels,Belgium,drawn
+6/2/1904,Hungary,Austria,3,0,Budapest,Hungary,Hungary
+2/12/1905,France,Switzerland,1,0,Paris,France,France
+2/25/1905,England,Northern Ireland,1,1,Middlesbrough,England,drawn
+3/6/1905,Wales,Scotland,3,1,Wrexham,Wales,Wales
+3/18/1905,Scotland,Northern Ireland,4,0,Glasgow,Scotland,Scotland
+3/27/1905,England,Wales,3,1,Liverpool,England,England
+4/1/1905,England,Scotland,1,0,London,England,England
+4/8/1905,Northern Ireland,Wales,2,2,Belfast,Republic of Ireland,drawn
+4/9/1905,Hungary,Austria,0,0,Budapest,Hungary,drawn
+4/30/1905,Belgium,Netherlands,1,4,Antwerp,Belgium,Netherlands
+5/7/1905,Belgium,France,7,0,Brussels,Belgium,Belgium
+5/14/1905,Netherlands,Belgium,4,0,Rotterdam,Netherlands,Netherlands
+8/15/1905,Argentina,Uruguay,0,0,Buenos Aires,Argentina,drawn
+2/17/1906,Northern Ireland,England,0,5,Belfast,Republic of Ireland,England
+3/3/1906,Scotland,Wales,0,2,Edinburgh,Scotland,Wales
+3/17/1906,Northern Ireland,Scotland,0,1,Dublin,Republic of Ireland,Scotland
+3/19/1906,Wales,England,0,1,Cardiff,Wales,England
+4/1/1906,Hungary,Czechoslovakia,1,1,Budapest,Hungary,drawn
+4/2/1906,Wales,Northern Ireland,4,4,Wrexham,Wales,drawn
+4/7/1906,Scotland,England,2,1,Glasgow,Scotland,Scotland
+4/22/1906,France,Belgium,0,5,Saint-Cloud,France,Belgium
+4/29/1906,Belgium,Netherlands,5,0,Antwerp,Belgium,Belgium
+5/13/1906,Netherlands,Belgium,2,3,Rotterdam,Netherlands,Belgium
+8/15/1906,Uruguay,Argentina,0,2,Montevideo,Uruguay,Argentina
+10/7/1906,Czechoslovakia,Hungary,4,4,Prague,Bohemia,drawn
+10/21/1906,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+11/4/1906,Hungary,Austria,3,1,Budapest,Hungary,Hungary
+2/16/1907,England,Northern Ireland,1,0,Liverpool,England,England
+2/23/1907,Northern Ireland,Wales,2,3,Belfast,Republic of Ireland,Wales
+3/4/1907,Wales,Scotland,1,0,Wrexham,Wales,Wales
+3/16/1907,Scotland,Northern Ireland,3,0,Glasgow,Scotland,Scotland
+3/18/1907,England,Wales,1,1,London,England,drawn
+4/6/1907,England,Scotland,1,1,Newcastle,England,drawn
+4/7/1907,Hungary,Czechoslovakia,5,2,Budapest,Hungary,Hungary
+4/14/1907,Belgium,Netherlands,1,3,Antwerp,Belgium,Netherlands
+4/21/1907,Belgium,France,1,2,Brussels,Belgium,France
+5/5/1907,Austria,Hungary,3,1,Vienna,Austria,Austria
+5/9/1907,Netherlands,Belgium,1,2,Haarlem,Netherlands,Belgium
+10/6/1907,Czechoslovakia,Hungary,5,3,Prague,Bohemia,Czechoslovakia
+11/3/1907,Hungary,Austria,4,1,Budapest,Hungary,Hungary
+2/15/1908,Northern Ireland,England,1,3,Belfast,Republic of Ireland,England
+3/7/1908,Scotland,Wales,2,1,Dundee,Scotland,Scotland
+3/8/1908,Switzerland,France,1,2,Geneva,Switzerland,France
+3/14/1908,Northern Ireland,Scotland,0,5,Dublin,Republic of Ireland,Scotland
+3/16/1908,Wales,England,1,7,Wrexham,Wales,England
+3/29/1908,Belgium,Netherlands,1,4,Antwerp,Belgium,Netherlands
+4/4/1908,Scotland,England,1,1,Glasgow,Scotland,drawn
+4/5/1908,Hungary,Czechoslovakia,5,2,Budapest,Hungary,Hungary
+4/5/1908,Switzerland,Germany,5,3,Basel,Switzerland,Switzerland
+4/11/1908,Wales,Northern Ireland,0,1,Aberdare,Wales,Northern Ireland
+4/12/1908,France,Belgium,1,2,Colombes,France,Belgium
+4/26/1908,Netherlands,Belgium,3,1,Rotterdam,Netherlands,Netherlands
+5/3/1908,Austria,Hungary,4,0,Vienna,Austria,Austria
+5/10/1908,Netherlands,France,4,1,Rotterdam,Netherlands,Netherlands
+6/6/1908,Austria,England,1,6,Vienna,Austria,England
+6/7/1908,Austria,Germany,3,2,Vienna,Austria,Austria
+6/8/1908,Austria,England,1,11,Vienna,Austria,England
+6/10/1908,Hungary,England,0,7,Budapest,Hungary,England
+6/13/1908,Czechoslovakia,England,0,4,Prague,Bohemia,England
+7/12/1908,Sweden,Norway,11,3,Gothenburg,Sweden,Norway
+8/15/1908,Uruguay,Argentina,2,2,Montevideo,Uruguay,drawn
+9/13/1908,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+10/4/1908,Argentina,Uruguay,0,1,Buenos Aires,Argentina,Uruguay
+10/25/1908,Netherlands,Sweden,5,3,The Hague,Netherlands,Netherlands
+10/26/1908,Belgium,Sweden,2,1,Brussels,Belgium,Belgium
+11/1/1908,Hungary,Austria,5,3,Budapest,Hungary,Hungary
+2/13/1909,England,Northern Ireland,4,0,Bradford,England,England
+3/1/1909,Wales,Scotland,3,2,Wrexham,Wales,Wales
+3/15/1909,England,Wales,2,0,Nottingham,England,England
+3/15/1909,Scotland,Northern Ireland,5,0,Glasgow,Scotland,Scotland
+3/20/1909,Northern Ireland,Wales,2,3,Belfast,Republic of Ireland,Wales
+3/21/1909,Belgium,Netherlands,1,4,Antwerp,Belgium,Netherlands
+4/3/1909,England,Scotland,2,0,London,England,England
+4/4/1909,Germany,Switzerland,1,0,Karlsruhe,Germany,Germany
+4/4/1909,Hungary,Germany,3,3,Budapest,Hungary,drawn
+4/25/1909,Netherlands,Belgium,4,1,Rotterdam,Netherlands,Netherlands
+5/2/1909,Austria,Hungary,3,4,Vienna,Austria,Hungary
+5/9/1909,Belgium,France,5,2,Brussels,Belgium,Belgium
+5/29/1909,Hungary,England,2,4,Budapest,Hungary,England
+5/30/1909,Hungary,Austria,1,1,Budapest,Hungary,drawn
+5/31/1909,Hungary,England,2,8,Budapest,Hungary,England
+6/1/1909,Austria,England,1,8,Vienna,Austria,England
+8/15/1909,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+9/19/1909,Uruguay,Argentina,2,2,Montevideo,Uruguay,drawn
+10/10/1909,Argentina,Uruguay,3,1,Buenos Aires,Argentina,Argentina
+2/12/1910,Northern Ireland,England,1,1,Belfast,Republic of Ireland,drawn
+3/5/1910,Scotland,Wales,1,0,Kilmarnock,Scotland,Scotland
+3/13/1910,Belgium,Netherlands,3,2,Antwerp,Belgium,Belgium
+3/14/1910,Wales,England,0,1,Cardiff,Wales,England
+3/19/1910,Northern Ireland,Scotland,1,0,Belfast,Republic of Ireland,Northern Ireland
+4/2/1910,Scotland,England,2,0,Glasgow,Scotland,Scotland
+4/3/1910,France,Belgium,0,4,Gentilly,France,Belgium
+4/3/1910,Switzerland,Germany,2,3,Basel,Switzerland,Germany
+4/10/1910,Netherlands,Belgium,7,0,Haarlem,Netherlands,Netherlands
+4/11/1910,Wales,Northern Ireland,4,1,Wrexham,Wales,Wales
+4/24/1910,Netherlands,Germany,4,2,Arnhem,Netherlands,Netherlands
+5/1/1910,Austria,Hungary,2,1,Vienna,Austria,Austria
+5/15/1910,Italy,France,6,2,Milan,Italy,Italy
+5/16/1910,Germany,Belgium,0,3,Duisburg,Germany,Belgium
+5/26/1910,Hungary,Italy,6,1,Budapest,Hungary,Hungary
+5/27/1910,Argentina,Chile,3,1,Buenos Aires,Argentina,Argentina
+5/29/1910,Chile,Uruguay,0,3,Buenos Aires,Argentina,Uruguay
+6/5/1910,Argentina,Chile,5,1,Buenos Aires,Argentina,Argentina
+6/12/1910,Argentina,Uruguay,4,1,Buenos Aires,Argentina,Argentina
+8/15/1910,Uruguay,Argentina,3,1,Montevideo,Uruguay,Uruguay
+9/11/1910,Chile,Argentina,0,3,Viña del Mar,Chile,Argentina
+9/11/1910,Norway,Sweden,0,4,Kristiania,Norway,Sweden
+10/16/1910,Germany,Netherlands,1,2,Kleve,Germany,Netherlands
+11/6/1910,Hungary,Austria,3,0,Budapest,Hungary,Hungary
+11/13/1910,Argentina,Uruguay,1,1,Buenos Aires,Argentina,drawn
+11/27/1910,Argentina,Uruguay,2,6,Buenos Aires,Argentina,Uruguay
+1/1/1911,France,Hungary,0,3,Maisons-Alfort,France,Hungary
+1/6/1911,Italy,Hungary,0,1,Milan,Italy,Hungary
+1/8/1911,Switzerland,Hungary,2,0,Zürich,Switzerland,Switzerland
+1/28/1911,Northern Ireland,Wales,1,2,Belfast,Republic of Ireland,Wales
+2/11/1911,England,Northern Ireland,2,1,Derby,England,England
+3/6/1911,Wales,Scotland,2,2,Cardiff,Wales,drawn
+3/13/1911,England,Wales,3,0,London,England,England
+3/18/1911,Scotland,Northern Ireland,2,0,Glasgow,Scotland,Scotland
+3/19/1911,Belgium,Netherlands,1,5,Antwerp,Belgium,Netherlands
+3/26/1911,Germany,Switzerland,6,2,Stuttgart,Germany,Germany
+4/1/1911,England,Scotland,1,1,Liverpool,England,drawn
+4/2/1911,Netherlands,Belgium,3,1,Dordrecht,Netherlands,Netherlands
+4/9/1911,France,Italy,2,2,Saint-Ouen,France,drawn
+4/23/1911,Belgium,Germany,2,1,Liège,Belgium,Belgium
+4/23/1911,Switzerland,France,5,2,Geneva,Switzerland,Switzerland
+4/30/1911,Belgium,France,7,1,Uccle,Belgium,Belgium
+5/7/1911,Austria,Hungary,3,1,Vienna,Austria,Austria
+5/7/1911,Italy,Switzerland,2,2,Milan,Italy,drawn
+5/21/1911,Switzerland,Italy,3,0,La Chaux-de-Fonds,Switzerland,Switzerland
+6/18/1911,Sweden,Germany,2,4,Solna,Sweden,Germany
+8/15/1911,Argentina,Uruguay,0,2,Buenos Aires,Argentina,Uruguay
+9/17/1911,Sweden,Norway,4,1,Solna,Sweden,Sweden
+9/17/1911,Uruguay,Argentina,2,3,Montevideo,Uruguay,Argentina
+10/8/1911,Uruguay,Argentina,1,1,Montevideo,Uruguay,drawn
+10/9/1911,Germany,Austria,1,2,Dresden,Germany,Austria
+10/22/1911,Argentina,Uruguay,2,0,Buenos Aires,Argentina,Argentina
+10/22/1911,Finland,Sweden,2,5,Helsinki,Finland,Sweden
+10/29/1911,Germany,Sweden,1,3,Hamburg,Germany,Sweden
+10/29/1911,Hungary,Switzerland,9,0,Budapest,Hungary,Hungary
+10/29/1911,Luxembourg,France,1,4,Luxembourg,Luxembourg,France
+10/29/1911,Uruguay,Argentina,3,0,Montevideo,Uruguay,Uruguay
+11/5/1911,Hungary,Austria,2,0,Budapest,Hungary,Hungary
+12/17/1911,Germany,Hungary,1,4,Munich,Germany,Hungary
+1/28/1912,France,Belgium,1,1,Saint-Ouen,France,drawn
+2/10/1912,Northern Ireland,England,1,6,Dublin,Republic of Ireland,England
+2/10/1912,France,Catalonia,7,0,Paris,France,France
+2/18/1912,France,Switzerland,4,1,Saint-Ouen,France,France
+2/20/1912,Belgium,Switzerland,9,2,Antwerp,Belgium,Belgium
+3/2/1912,Scotland,Wales,1,0,Edinburgh,Scotland,Scotland
+3/10/1912,Belgium,Netherlands,1,2,Antwerp,Belgium,Netherlands
+3/11/1912,Wales,England,0,2,Wrexham,Wales,England
+3/16/1912,Northern Ireland,Scotland,1,4,Belfast,Republic of Ireland,Scotland
+3/17/1912,Italy,France,3,4,Turin,Italy,France
+3/23/1912,Scotland,England,1,1,Glasgow,Scotland,drawn
+3/24/1912,Netherlands,Germany,5,5,Zwolle,Netherlands,drawn
+4/13/1912,Wales,Northern Ireland,2,3,Cardiff,Wales,Northern Ireland
+4/14/1912,Hungary,Germany,4,4,Budapest,Hungary,drawn
+4/28/1912,Netherlands,Belgium,4,3,Dordrecht,Netherlands,Netherlands
+5/5/1912,Austria,Hungary,1,1,Vienna,Austria,drawn
+5/5/1912,Switzerland,Germany,1,2,St. Gallen,Switzerland,Germany
+6/16/1912,Norway,Sweden,1,2,Kristiania,Norway,Sweden
+6/20/1912,Sweden,Hungary,2,2,Gothenburg,Sweden,drawn
+6/23/1912,Norway,Hungary,0,6,Kristiania,Norway,Hungary
+6/27/1912,Sweden,Finland,7,1,Solna,Sweden,Sweden
+7/3/1912,Norway,Russia,2,1,Stockholm,Sweden,Norway
+7/12/1912,Russia,Hungary,0,9,Moscow,Russia,Hungary
+7/14/1912,Russia,Hungary,0,12,Moscow,Russia,Hungary
+8/15/1912,Uruguay,Argentina,2,0,Montevideo,Uruguay,Uruguay
+8/25/1912,Uruguay,Argentina,3,0,Montevideo,Uruguay,Uruguay
+9/22/1912,Argentina,Uruguay,0,1,Buenos Aires,Argentina,Uruguay
+10/6/1912,Argentina,Uruguay,3,3,Avellaneda,Argentina,drawn
+10/6/1912,Denmark,Germany,3,1,Copenhagen,Denmark,Denmark
+11/3/1912,Hungary,Austria,4,0,Budapest,Hungary,Hungary
+11/3/1912,Sweden,Norway,4,2,Gothenburg,Sweden,Sweden
+11/17/1912,Germany,Netherlands,2,3,Leipzig,Germany,Netherlands
+12/1/1912,Uruguay,Argentina,1,3,Montevideo,Uruguay,Argentina
+12/1/1912,Catalonia,France,1,0,Barcelona,Spain,Catalonia
+12/22/1912,Italy,Austria,1,3,Genoa,Italy,Austria
+1/12/1913,France,Italy,1,0,Saint-Ouen,France,France
+1/18/1913,Northern Ireland,Wales,0,1,Belfast,Republic of Ireland,Wales
+2/15/1913,Northern Ireland,England,2,1,Belfast,Republic of Ireland,Northern Ireland
+2/16/1913,Belgium,France,3,0,Brussels,Belgium,Belgium
+3/3/1913,Wales,Scotland,0,0,Wrexham,Wales,drawn
+3/9/1913,Belgium,Netherlands,3,3,Antwerp,Belgium,drawn
+3/9/1913,Switzerland,France,1,4,Geneva,Switzerland,France
+3/15/1913,Northern Ireland,Scotland,1,2,Dublin,Republic of Ireland,Scotland
+3/17/1913,England,Wales,4,3,Bristol,England,England
+4/5/1913,England,Scotland,1,0,London,England,England
+4/20/1913,France,Luxembourg,8,0,Saint-Ouen,France,France
+4/20/1913,Netherlands,Belgium,2,4,Zwolle,Netherlands,Belgium
+4/27/1913,Austria,Hungary,1,4,Vienna,Austria,Hungary
+5/1/1913,Italy,Belgium,1,0,Turin,Italy,Italy
+5/4/1913,Russia,Sweden,1,4,Moscow,Russia,Sweden
+5/4/1913,Switzerland,Belgium,1,2,Basel,Switzerland,Belgium
+5/18/1913,Germany,Switzerland,1,2,Freiburg,Germany,Switzerland
+5/18/1913,Hungary,Sweden,2,0,Budapest,Hungary,Hungary
+5/25/1913,Denmark,Sweden,8,0,Copenhagen,Denmark,Denmark
+6/8/1913,Sweden,Norway,9,0,Stockholm,Sweden,Sweden
+6/15/1913,Argentina,Uruguay,1,1,Avellaneda,Argentina,drawn
+6/15/1913,Austria,Italy,2,0,Vienna,Austria,Austria
+7/9/1913,Argentina,Uruguay,2,1,Avellaneda,Argentina,Argentina
+8/15/1913,Argentina,Uruguay,4,0,Avellaneda,Argentina,Argentina
+8/31/1913,Argentina,Uruguay,2,0,Buenos Aires,Argentina,Argentina
+9/14/1913,Russia,Norway,1,1,Moscow,Russia,drawn
+9/21/1913,Chile,Argentina,0,2,Viña del Mar,Chile,Argentina
+10/5/1913,Sweden,Denmark,0,10,Stockholm,Sweden,Denmark
+10/5/1913,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+10/26/1913,Germany,Denmark,1,4,Hamburg,Germany,Denmark
+10/26/1913,Hungary,Austria,4,3,Budapest,Hungary,Hungary
+10/26/1913,Norway,Sweden,1,1,Kristiania,Norway,drawn
+10/26/1913,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+11/2/1913,Belgium,Switzerland,2,0,Verviers,Belgium,Belgium
+11/23/1913,Belgium,Germany,6,2,Antwerp,Belgium,Belgium
+1/11/1914,Italy,Austria,0,0,Milan,Italy,drawn
+1/19/1914,Wales,Northern Ireland,1,2,Wrexham,Wales,Northern Ireland
+1/25/1914,France,Belgium,4,3,Lille,France,France
+2/8/1914,Luxembourg,France,5,4,Luxembourg,Luxembourg,Luxembourg
+2/14/1914,England,Northern Ireland,0,3,Middlesbrough,England,Northern Ireland
+2/28/1914,Scotland,Wales,0,0,Glasgow,Scotland,drawn
+3/8/1914,France,Switzerland,2,2,Saint-Ouen,France,drawn
+3/14/1914,Northern Ireland,Scotland,1,1,Belfast,Republic of Ireland,drawn
+3/15/1914,Belgium,Netherlands,2,4,Antwerp,Belgium,Netherlands
+3/16/1914,Wales,England,0,2,Cardiff,Wales,England
+3/29/1914,Italy,France,2,0,Turin,Italy,Italy
+4/5/1914,Italy,Switzerland,1,1,Genoa,Italy,drawn
+4/5/1914,Netherlands,Germany,4,4,Amsterdam,Netherlands,drawn
+4/14/1914,Scotland,England,3,1,Glasgow,Scotland,Scotland
+4/26/1914,Netherlands,Belgium,4,2,Amsterdam,Netherlands,Netherlands
+5/3/1914,Austria,Hungary,2,0,Vienna,Austria,Austria
+5/17/1914,Denmark,Netherlands,4,3,Copenhagen,Denmark,Denmark
+5/17/1914,Switzerland,Italy,0,1,Berne,Switzerland,Italy
+5/24/1914,Sweden,Finland,4,3,Solna,Sweden,Sweden
+5/31/1914,Hungary,France,5,1,Budapest,Hungary,Hungary
+6/21/1914,Sweden,Hungary,1,1,Solna,Sweden,drawn
+6/28/1914,Norway,Sweden,0,1,Kristiania,Norway,Sweden
+7/5/1914,Sweden,Russia,2,2,Solna,Sweden,drawn
+7/12/1914,Norway,Russia,1,1,Kristiania,Norway,drawn
+8/30/1914,Uruguay,Argentina,3,2,Montevideo,Uruguay,Uruguay
+9/13/1914,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+9/20/1914,Argentina,Brazil,3,0,Buenos Aires,Argentina,Argentina
+9/27/1914,Argentina,Brazil,0,1,Buenos Aires,Argentina,Brazil
+10/4/1914,Hungary,Austria,2,2,Budapest,Hungary,drawn
+10/25/1914,Sweden,Norway,7,0,Solna,Sweden,Sweden
+11/8/1914,Austria,Hungary,1,2,Vienna,Austria,Hungary
+1/3/1915,Basque Country,Catalonia,6,1,Bilbao,Spain,Basque Country
+1/31/1915,Italy,Switzerland,3,1,Turin,Italy,Italy
+2/7/1915,Catalonia,Basque Country,2,2,Barcelona,Spain,drawn
+5/2/1915,Hungary,Austria,2,5,Budapest,Hungary,Austria
+5/13/1915,Basque Country,Catalonia,1,0,Madrid,Spain,Basque Country
+5/30/1915,Austria,Hungary,1,2,Vienna,Austria,Hungary
+6/6/1915,Denmark,Sweden,2,0,Copenhagen,Denmark,Denmark
+6/27/1915,Norway,Sweden,1,1,Kristiania,Norway,drawn
+7/18/1915,Uruguay,Argentina,2,3,Montevideo,Uruguay,Argentina
+8/15/1915,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+9/12/1915,Uruguay,Argentina,2,0,Montevideo,Uruguay,Uruguay
+9/19/1915,Denmark,Norway,8,1,Copenhagen,Denmark,Denmark
+10/3/1915,Austria,Hungary,4,2,Vienna,Austria,Austria
+10/24/1915,Sweden,Norway,5,2,Stockholm,Sweden,Sweden
+10/31/1915,Sweden,Denmark,0,2,Stockholm,Sweden,Denmark
+11/7/1915,Hungary,Austria,6,2,Budapest,Hungary,Hungary
+5/7/1916,Austria,Hungary,3,1,Vienna,Austria,Austria
+5/21/1916,Catalonia,Basque Country,1,3,Barcelona,Spain,Basque Country
+5/22/1916,Catalonia,Basque Country,0,0,Barcelona,Spain,drawn
+6/4/1916,Denmark,Sweden,2,0,Copenhagen,Denmark,Denmark
+6/4/1916,Hungary,Austria,2,1,Budapest,Hungary,Hungary
+6/4/1916,Basque Country,Catalonia,5,0,Bilbao,Spain,Basque Country
+6/25/1916,Norway,Denmark,0,2,Kristiania,Norway,Denmark
+7/2/1916,Chile,Uruguay,0,4,Buenos Aires,Argentina,Uruguay
+7/2/1916,Sweden,Norway,6,0,Stockholm,Sweden,Sweden
+7/6/1916,Argentina,Chile,6,1,Buenos Aires,Argentina,Argentina
+7/8/1916,Brazil,Chile,1,1,Buenos Aires,Argentina,drawn
+7/10/1916,Argentina,Brazil,1,1,Buenos Aires,Argentina,drawn
+7/12/1916,Argentina,Chile,1,0,Buenos Aires,Argentina,Argentina
+7/12/1916,Brazil,Uruguay,1,2,Buenos Aires,Argentina,Uruguay
+7/14/1916,Uruguay,Chile,4,1,Montevideo,Uruguay,Uruguay
+7/17/1916,Argentina,Uruguay,0,0,Avellaneda,Argentina,drawn
+7/18/1916,Uruguay,Brazil,0,1,Montevideo,Uruguay,Brazil
+8/15/1916,Argentina,Uruguay,3,1,Avellaneda,Argentina,Argentina
+8/15/1916,Uruguay,Argentina,1,2,Montevideo,Uruguay,Argentina
+8/20/1916,Sweden,United States,2,3,Stockholm,Sweden,United States
+9/3/1916,Norway,United States,1,1,Kristiania,Norway,drawn
+10/1/1916,Argentina,Uruguay,7,2,Avellaneda,Argentina,Argentina
+10/1/1916,Hungary,Austria,2,3,Budapest,Hungary,Austria
+10/1/1916,Norway,Sweden,0,0,Kristiania,Norway,drawn
+10/1/1916,Uruguay,Argentina,0,1,Montevideo,Uruguay,Argentina
+10/8/1916,Sweden,Denmark,4,0,Stockholm,Sweden,Sweden
+10/15/1916,Denmark,Norway,8,0,Copenhagen,Denmark,Denmark
+10/29/1916,Uruguay,Argentina,3,1,Montevideo,Uruguay,Uruguay
+11/5/1916,Austria,Hungary,3,3,Vienna,Austria,drawn
+5/6/1917,Austria,Hungary,1,1,Vienna,Austria,drawn
+5/7/1917,Japan,Philippines,2,15,Tokyo,Japan,Japan
+6/3/1917,Denmark,Sweden,1,1,Copenhagen,Denmark,drawn
+6/3/1917,Hungary,Austria,6,2,Budapest,Hungary,Hungary
+6/17/1917,Norway,Denmark,1,2,Kristiania,Norway,Denmark
+7/15/1917,Austria,Hungary,1,4,Vienna,Austria,Hungary
+7/18/1917,Uruguay,Argentina,0,2,Montevideo,Uruguay,Argentina
+8/15/1917,Argentina,Uruguay,1,0,Avellaneda,Argentina,Argentina
+8/19/1917,Sweden,Norway,3,3,Helsingborg,Sweden,drawn
+9/2/1917,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+9/16/1917,Norway,Sweden,0,2,Kristiania,Norway,Sweden
+9/30/1917,Uruguay,Chile,4,0,Montevideo,Uruguay,Uruguay
+10/3/1917,Argentina,Brazil,4,2,Montevideo,Uruguay,Argentina
+10/6/1917,Argentina,Chile,1,0,Montevideo,Uruguay,Argentina
+10/7/1917,Denmark,Norway,12,0,Copenhagen,Denmark,Denmark
+10/7/1917,Hungary,Austria,2,1,Budapest,Hungary,Hungary
+10/7/1917,Uruguay,Brazil,4,0,Montevideo,Uruguay,Uruguay
+10/12/1917,Brazil,Chile,5,0,Montevideo,Uruguay,Brazil
+10/14/1917,Sweden,Denmark,1,2,Stockholm,Sweden,Denmark
+10/14/1917,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+10/16/1917,Uruguay,Brazil,3,1,Montevideo,Uruguay,Uruguay
+11/4/1917,Austria,Hungary,1,2,Vienna,Austria,Hungary
+12/23/1917,Switzerland,Austria,0,1,Basel,Switzerland,Austria
+12/26/1917,Switzerland,Austria,3,2,Zürich,Switzerland,Switzerland
+4/14/1918,Hungary,Austria,2,0,Budapest,Hungary,Hungary
+5/9/1918,Austria,Switzerland,5,1,Vienna,Austria,Austria
+5/12/1918,Hungary,Switzerland,2,1,Budapest,Hungary,Hungary
+5/26/1918,Sweden,Norway,2,0,Stockholm,Sweden,Sweden
+6/2/1918,Austria,Hungary,0,2,Vienna,Austria,Hungary
+6/2/1918,Denmark,Sweden,3,0,Copenhagen,Denmark,Denmark
+6/16/1918,Norway,Denmark,3,1,Kristiania,Norway,Norway
+7/18/1918,Uruguay,Argentina,1,1,Montevideo,Uruguay,drawn
+7/28/1918,Uruguay,Argentina,3,1,Montevideo,Uruguay,Uruguay
+8/15/1918,Argentina,Uruguay,0,0,Buenos Aires,Argentina,drawn
+8/25/1918,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+9/15/1918,Norway,Sweden,2,1,Kristiania,Norway,Norway
+9/20/1918,Uruguay,Argentina,1,1,Montevideo,Uruguay,drawn
+9/29/1918,Argentina,Uruguay,2,0,Buenos Aires,Argentina,Argentina
+10/6/1918,Austria,Hungary,0,3,Vienna,Austria,Hungary
+10/6/1918,Denmark,Norway,4,0,Copenhagen,Denmark,Denmark
+10/20/1918,Sweden,Denmark,1,2,Gothenburg,Sweden,Denmark
+3/9/1919,Belgium,France,2,2,Brussels,Belgium,drawn
+4/6/1919,Hungary,Austria,2,1,Budapest,Hungary,Hungary
+5/11/1919,Brazil,Chile,6,0,Rio de Janeiro,Brazil,Brazil
+5/11/1919,Paraguay,Argentina,1,5,Asunción,Paraguay,Argentina
+5/13/1919,Argentina,Uruguay,2,3,Rio de Janeiro,Brazil,Uruguay
+5/15/1919,Paraguay,Argentina,0,3,Asunción,Paraguay,Argentina
+5/17/1919,Chile,Uruguay,0,2,Rio de Janeiro,Brazil,Uruguay
+5/18/1919,Brazil,Argentina,3,1,Rio de Janeiro,Brazil,Brazil
+5/21/1919,Paraguay,Argentina,1,2,Asunción,Paraguay,Argentina
+5/22/1919,Argentina,Chile,4,1,Rio de Janeiro,Brazil,Argentina
+5/24/1919,Paraguay,Argentina,1,2,Asunción,Paraguay,Argentina
+5/26/1919,Brazil,Uruguay,2,2,Rio de Janeiro,Brazil,drawn
+5/29/1919,Brazil,Uruguay,1,0,Rio de Janeiro,Brazil,Brazil
+5/29/1919,Sweden,Finland,1,0,Stockholm,Sweden,Sweden
+6/1/1919,Brazil,Argentina,3,3,Rio de Janeiro,Brazil,drawn
+6/5/1919,Denmark,Sweden,3,0,Copenhagen,Denmark,Denmark
+6/9/1919,Netherlands,Sweden,3,1,Amsterdam,Netherlands,Netherlands
+6/12/1919,Denmark,Norway,5,1,Copenhagen,Denmark,Denmark
+6/29/1919,Norway,Sweden,4,3,Kristiania,Norway,Norway
+7/18/1919,Uruguay,Argentina,4,1,Montevideo,Uruguay,Uruguay
+8/24/1919,Sweden,Netherlands,4,1,Stockholm,Sweden,Sweden
+8/24/1919,Uruguay,Argentina,2,1,Montevideo,Uruguay,Uruguay
+8/31/1919,Norway,Netherlands,1,1,Oslo,Norway,drawn
+9/7/1919,Argentina,Uruguay,1,2,Buenos Aires,Argentina,Uruguay
+9/14/1919,Sweden,Norway,1,5,Gothenburg,Sweden,Norway
+9/21/1919,Norway,Denmark,3,2,Kristiania,Norway,Norway
+9/28/1919,Finland,Sweden,3,3,Helsinki,Finland,drawn
+10/5/1919,Austria,Hungary,2,0,Vienna,Austria,Austria
+10/12/1919,Sweden,Denmark,3,0,Stockholm,Sweden,Sweden
+10/19/1919,Argentina,Uruguay,6,1,Buenos Aires,Argentina,Argentina
+10/25/1919,Northern Ireland,England,1,1,Belfast,Republic of Ireland,drawn
+11/9/1919,Hungary,Austria,3,2,Budapest,Hungary,Hungary
+12/7/1919,Uruguay,Argentina,4,2,Montevideo,Uruguay,Uruguay
+1/18/1920,Italy,France,9,4,Milan,Italy,Italy
+2/14/1920,Northern Ireland,Wales,2,2,Belfast,Republic of Ireland,drawn
+2/26/1920,Wales,Scotland,1,1,Cardiff,Wales,drawn
+2/29/1920,Switzerland,France,0,2,Geneva,Switzerland,France
+3/13/1920,Scotland,Northern Ireland,3,0,Glasgow,Scotland,Scotland
+3/15/1920,England,Wales,1,2,London,England,Wales
+3/28/1920,France,Belgium,2,1,Paris,France,France
+3/28/1920,Switzerland,Italy,3,0,Berne,Switzerland,Switzerland
+4/5/1920,Netherlands,Denmark,2,0,Amsterdam,Netherlands,Netherlands
+4/10/1920,England,Scotland,5,4,Sheffield,England,England
+5/2/1920,Austria,Hungary,2,2,Vienna,Austria,drawn
+5/13/1920,Italy,Netherlands,1,1,Genoa,Italy,drawn
+5/16/1920,Switzerland,Netherlands,2,1,Basel,Switzerland,Switzerland
+5/30/1920,Sweden,Finland,4,0,Stockholm,Sweden,Sweden
+6/6/1920,Sweden,Switzerland,0,1,Stockholm,Sweden,Switzerland
+6/13/1920,Norway,Denmark,1,1,Kristiania,Norway,drawn
+6/27/1920,Norway,Sweden,0,3,Kristiania,Norway,Sweden
+6/27/1920,Switzerland,Germany,4,1,Zürich,Switzerland,Switzerland
+7/18/1920,Uruguay,Argentina,2,0,Montevideo,Uruguay,Uruguay
+7/25/1920,Argentina,Uruguay,1,3,Buenos Aires,Argentina,Uruguay
+8/8/1920,Argentina,Uruguay,1,0,Buenos Aires,Argentina,Argentina
+9/11/1920,Chile,Brazil,0,1,Viña del Mar,Chile,Brazil
+9/12/1920,Uruguay,Argentina,1,1,Viña del Mar,Chile,drawn
+9/18/1920,Brazil,Uruguay,0,6,Viña del Mar,Chile,Uruguay
+9/19/1920,Finland,Sweden,1,0,Helsinki,Finland,Finland
+9/20/1920,Chile,Argentina,1,1,Viña del Mar,Chile,drawn
+9/25/1920,Argentina,Brazil,2,0,Viña del Mar,Chile,Argentina
+9/26/1920,Austria,Germany,3,2,Vienna,Austria,Austria
+9/26/1920,Sweden,Norway,0,0,Stockholm,Sweden,drawn
+10/3/1920,Chile,Uruguay,1,2,Viña del Mar,Chile,Uruguay
+10/10/1920,Sweden,Denmark,0,2,Stockholm,Sweden,Denmark
+10/17/1920,Finland,Estonia,6,0,Helsinki,Finland,Finland
+10/23/1920,England,Northern Ireland,2,0,Sunderland,England,England
+10/24/1920,Germany,Hungary,1,0,Berlin,Germany,Germany
+11/7/1920,Hungary,Austria,1,2,Budapest,Hungary,Austria
+2/12/1921,Scotland,Wales,2,1,Aberdeen,Scotland,Scotland
+2/20/1921,France,Italy,1,2,Marseille,France,Italy
+2/26/1921,Northern Ireland,Scotland,0,2,Belfast,Republic of Ireland,Scotland
+3/6/1921,Belgium,France,3,1,Forest,Belgium,Belgium
+3/6/1921,Italy,Switzerland,2,1,Milan,Italy,Italy
+3/14/1921,Wales,England,0,0,Cardiff,Wales,drawn
+3/26/1921,Austria,Sweden,2,2,Vienna,Austria,drawn
+4/3/1921,Catalonia,Provence,4,0,Barcelona,Spain,Catalonia
+4/4/1921,Catalonia,Provence,1,0,Barcelona,Spain,Catalonia
+4/7/1921,Paraguay,Argentina,3,1,Asunción,Paraguay,Paraguay
+4/9/1921,Scotland,England,3,0,Glasgow,Scotland,Scotland
+4/9/1921,Wales,Northern Ireland,2,1,Swansea,Wales,Wales
+4/14/1921,Paraguay,Argentina,2,2,Asunción,Paraguay,drawn
+4/24/1921,Austria,Hungary,4,1,Vienna,Austria,Austria
+5/1/1921,Switzerland,Austria,2,2,St. Gallen,Switzerland,drawn
+5/5/1921,Belgium,Italy,2,3,Antwerp,Belgium,Italy
+5/5/1921,Germany,Austria,3,3,Dresden,Germany,drawn
+5/8/1921,Netherlands,Italy,2,2,Amsterdam,Netherlands,drawn
+5/15/1921,Belgium,Netherlands,1,1,Antwerp,Belgium,drawn
+5/21/1921,Belgium,England,0,2,Brussels,Belgium,England
+5/25/1921,Norway,Finland,3,2,Kristiania,Norway,Norway
+5/29/1921,Sweden,Finland,0,3,Stockholm,Sweden,Finland
+5/30/1921,Japan,Philippines,0,3,Shanghai,China PR,Philippines
+6/5/1921,Hungary,Germany,3,0,Budapest,Hungary,Hungary
+6/12/1921,Denmark,Netherlands,1,1,Copenhagen,Denmark,drawn
+6/19/1921,Norway,Sweden,3,1,Kristiania,Norway,Norway
+7/9/1921,Canada,Scotland,0,1,Montréal,Canada,Scotland
+7/22/1921,Estonia,Sweden,0,0,Tallinn,Estonia,drawn
+7/24/1921,Sweden,Austria,1,3,Stockholm,Sweden,Austria
+7/31/1921,Finland,Austria,2,3,Helsinki,Finland,Austria
+8/28/1921,Estonia,Finland,0,3,Tallinn,Estonia,Finland
+9/14/1921,Costa Rica,El Salvador,7,0,Guatemala,Guatemala,Costa Rica
+9/18/1921,Finland,Germany,3,3,Helsinki,Finland,drawn
+9/18/1921,Guatemala,Costa Rica,0,6,Guatemala,Guatemala,Costa Rica
+9/18/1921,Sweden,Norway,0,3,Stockholm,Sweden,Norway
+9/25/1921,Chile,Argentina,1,4,Viña del Mar,Chile,Argentina
+10/2/1921,Argentina,Brazil,1,0,Buenos Aires,Argentina,Argentina
+10/2/1921,Chile,Argentina,1,1,Santiago,Chile,drawn
+10/2/1921,Denmark,Norway,3,1,Copenhagen,Denmark,Denmark
+10/9/1921,Paraguay,Uruguay,2,1,Buenos Aires,Argentina,Paraguay
+10/9/1921,Sweden,Denmark,0,0,Stockholm,Sweden,drawn
+10/12/1921,Brazil,Paraguay,3,0,Buenos Aires,Argentina,Brazil
+10/16/1921,Argentina,Paraguay,3,0,Buenos Aires,Argentina,Argentina
+10/22/1921,Northern Ireland,England,1,1,Belfast,Republic of Ireland,drawn
+10/23/1921,Brazil,Uruguay,1,2,Buenos Aires,Argentina,Uruguay
+10/28/1921,Czechoslovakia,Yugoslavia,6,1,Prague,Czechoslovakia,Czechoslovakia
+10/30/1921,Argentina,Uruguay,1,0,Buenos Aires,Argentina,Argentina
+11/2/1921,Uruguay,Paraguay,4,2,Montevideo,Uruguay,Uruguay
+11/6/1921,Hungary,Sweden,4,2,Budapest,Hungary,Hungary
+11/6/1921,Switzerland,Italy,1,1,Geneva,Switzerland,drawn
+11/13/1921,Czechoslovakia,Sweden,2,2,Prague,Czechoslovakia,drawn
+11/13/1921,France,Netherlands,0,5,Vincennes,France,Netherlands
+12/18/1921,Hungary,Poland,1,0,Budapest,Hungary,Hungary
+12/18/1921,Spain,Portugal,3,1,Madrid,Spain,Spain
+1/15/1922,France,Belgium,2,1,Colombes,France,France
+1/15/1922,Italy,Austria,3,3,Milan,Italy,drawn
+2/4/1922,Wales,Scotland,2,1,Wrexham,Wales,Wales
+2/26/1922,Italy,Czechoslovakia,1,1,Turin,Italy,drawn
+3/4/1922,Scotland,Northern Ireland,2,1,Glasgow,Scotland,Scotland
+3/12/1922,Brittany,Luxembourg,1,0,Rennes,France,Brittany
+3/13/1922,England,Wales,1,0,Liverpool,England,England
+3/26/1922,Belgium,Netherlands,4,0,Antwerp,Belgium,Belgium
+3/26/1922,Germany,Switzerland,2,2,Frankfurt am Main,Germany,drawn
+4/8/1922,England,Scotland,0,1,Birmingham,England,Scotland
+4/15/1922,Belgium,Denmark,0,0,Liège,Belgium,drawn
+4/17/1922,Netherlands,Denmark,2,0,Amsterdam,Netherlands,Netherlands
+4/23/1922,Austria,Germany,0,2,Vienna,Austria,Germany
+4/30/1922,France,Spain,0,4,Le Bouscat,France,Spain
+4/30/1922,Hungary,Austria,1,1,Budapest,Hungary,drawn
+5/7/1922,Netherlands,Belgium,1,2,Amsterdam,Netherlands,Belgium
+5/14/1922,Poland,Hungary,0,3,Cracow,Poland,Hungary
+5/21/1922,Italy,Belgium,4,2,Milan,Italy,Italy
+5/25/1922,Norway,Northern Ireland,2,1,Bergen,Norway,Norway
+5/28/1922,Sweden,Poland,1,2,Stockholm,Sweden,Poland
+6/5/1922,Finland,Sweden,1,4,Helsinki,Finland,Sweden
+6/8/1922,Yugoslavia,Romania,1,2,Belgrade,Yugoslavia,Romania
+6/11/1922,Austria,Switzerland,7,1,Vienna,Austria,Austria
+6/11/1922,Denmark,Czechoslovakia,0,3,Copenhagen,Denmark,Czechoslovakia
+6/11/1922,Norway,France,7,0,Kristiania,Norway,Norway
+6/15/1922,Hungary,Switzerland,1,1,Budapest,Hungary,drawn
+6/17/1922,New Zealand,Australia,3,1,Dunedin,New Zealand,New Zealand
+6/24/1922,New Zealand,Australia,1,1,Wellington,New Zealand,drawn
+6/28/1922,Yugoslavia,Czechoslovakia,4,3,Zagreb,Yugoslavia,Yugoslavia
+7/2/1922,Germany,Hungary,0,0,Bochum,Germany,drawn
+7/8/1922,New Zealand,Australia,3,1,Auckland,New Zealand,New Zealand
+7/9/1922,Sweden,Hungary,1,1,Stockholm,Sweden,drawn
+7/13/1922,Finland,Hungary,1,5,Helsinki,Finland,Hungary
+8/11/1922,Finland,Estonia,10,2,Helsinki,Finland,Estonia
+8/13/1922,Sweden,Czechoslovakia,0,2,Stockholm,Sweden,Czechoslovakia
+8/23/1922,Sweden,Norway,0,0,Stockholm,Sweden,drawn
+8/26/1922,Finland,Norway,1,3,Helsinki,Finland,Norway
+9/3/1922,Romania,Poland,1,1,Cernăuţi,Romania,drawn
+9/10/1922,Norway,Denmark,3,3,Fredrikstad,Norway,drawn
+9/17/1922,Brazil,Chile,1,1,Rio de Janeiro,Brazil,drawn
+9/23/1922,Chile,Uruguay,0,2,Rio de Janeiro,Brazil,Uruguay
+9/24/1922,Austria,Hungary,2,2,Vienna,Austria,drawn
+9/24/1922,Brazil,Paraguay,1,1,Rio de Janeiro,Brazil,drawn
+9/24/1922,Latvia,Estonia,1,1,Riga,Latvia,drawn
+9/24/1922,Norway,Sweden,0,5,Kristiania,Norway,Sweden
+9/28/1922,Argentina,Chile,4,0,Rio de Janeiro,Brazil,Argentina
+10/1/1922,Brazil,Uruguay,0,0,Rio de Janeiro,Brazil,drawn
+10/1/1922,Denmark,Sweden,1,2,Copenhagen,Denmark,Sweden
+10/1/1922,Yugoslavia,Poland,1,3,Zagreb,Yugoslavia,Poland
+10/5/1922,Chile,Paraguay,0,3,Rio de Janeiro,Brazil,Paraguay
+10/8/1922,Argentina,Uruguay,0,1,Rio de Janeiro,Brazil,Uruguay
+10/12/1922,Paraguay,Uruguay,1,0,Rio de Janeiro,Brazil,Paraguay
+10/15/1922,Brazil,Argentina,2,0,Rio de Janeiro,Brazil,Brazil
+10/18/1922,Argentina,Paraguay,2,0,Rio de Janeiro,Brazil,Argentina
+10/21/1922,England,Northern Ireland,2,0,West Bromwich,England,England
+10/22/1922,Argentina,Chile,1,0,Buenos Aires,Argentina,Argentina
+10/22/1922,Brazil,Paraguay,3,0,Rio de Janeiro,Brazil,Brazil
+10/22/1922,Brazil,Argentina,2,1,São Paulo,Brazil,Brazil
+10/29/1922,Brazil,Paraguay,3,1,São Paulo,Brazil,Brazil
+11/12/1922,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+11/19/1922,Switzerland,Netherlands,5,0,Berne,Switzerland,Switzerland
+11/19/1922,Galicia,Central Spain,4,1,Vigo,Spain,Galicia
+11/26/1922,Hungary,Austria,1,2,Budapest,Hungary,Austria
+12/3/1922,Italy,Switzerland,2,2,Bologna,Italy,drawn
+12/10/1922,Uruguay,Argentina,1,0,Montevideo,Uruguay,Uruguay
+12/17/1922,Argentina,Uruguay,2,2,Buenos Aires,Argentina,drawn
+12/17/1922,Portugal,Spain,1,2,Lisbon,Portugal,Spain
+1/1/1923,Guatemala,Mexico,2,3,Guatemala,Guatemala,Mexico
+1/1/1923,Italy,Germany,3,1,Milan,Italy,Italy
+1/4/1923,Guatemala,Mexico,3,1,Guatemala,Guatemala,Guatemala
+1/7/1923,Guatemala,Mexico,1,4,Guatemala,Guatemala,Mexico
+1/14/1923,Andalusia,Galicia,1,4,Seville,Spain,Galicia
+1/21/1923,Switzerland,Austria,2,0,Geneva,Switzerland,Switzerland
+1/28/1923,Spain,France,3,0,San Sebastián,Spain,Spain
+2/4/1923,Belgium,Spain,1,0,Antwerp,Belgium,Belgium
+2/11/1923,Luxembourg,Brittany,1,4,Esch-sur-Alzette,Luxembourg,Brittany
+2/25/1923,Belgium,France,4,1,Forest,Belgium,Belgium
+2/25/1923,Galicia,Asturias,1,3,Vigo,Spain,Asturias
+3/3/1923,Northern Ireland,Scotland,0,1,Belfast,Northern Ireland,Scotland
+3/4/1923,Italy,Hungary,0,0,Genoa,Italy,drawn
+3/5/1923,Wales,England,2,2,Cardiff,Wales,drawn
+3/11/1923,Switzerland,Hungary,1,6,Lausanne,Switzerland,Hungary
+3/17/1923,Scotland,Wales,2,0,Paisley,Scotland,Scotland
+3/19/1923,England,Belgium,6,1,London,England,England
+4/2/1923,Netherlands,France,8,1,Amsterdam,Netherlands,Netherlands
+4/14/1923,Scotland,England,2,2,Glasgow,Scotland,drawn
+4/14/1923,Wales,Northern Ireland,0,3,Wrexham,Wales,Northern Ireland
+4/15/1923,Austria,Italy,0,0,Vienna,Austria,drawn
+4/22/1923,France,Switzerland,2,2,Vincennes,France,drawn
+4/29/1923,Netherlands,Belgium,1,1,Amsterdam,Netherlands,drawn
+5/6/1923,Austria,Hungary,1,0,Vienna,Austria,Austria
+5/6/1923,Czechoslovakia,Denmark,2,0,Prague,Czechoslovakia,Czechoslovakia
+5/10/1923,France,England,1,4,Vincennes,France,England
+5/10/1923,Germany,Netherlands,0,0,Hamburg,Germany,drawn
+5/20/1923,Argentina,Paraguay,0,2,Buenos Aires,Argentina,Paraguay
+5/21/1923,Sweden,England,2,4,Stockholm,Sweden,England
+5/22/1923,China PR,Philippines,3,0,Osaka,Japan,China PR
+5/24/1923,Japan,China PR,1,5,Osaka,Japan,China PR
+5/24/1923,Sweden,England,1,3,Solna,Sweden,England
+5/25/1923,Argentina,Paraguay,1,0,Buenos Aires,Argentina,Argentina
+5/27/1923,Czechoslovakia,Italy,5,1,Prague,Czechoslovakia,Czechoslovakia
+6/3/1923,Poland,Yugoslavia,1,2,Cracow,Poland,Yugoslavia
+6/3/1923,Switzerland,Germany,1,2,Basel,Switzerland,Germany
+6/9/1923,Australia,New Zealand,2,1,Brisbane,Australia,Australia
+6/10/1923,Romania,Yugoslavia,1,2,Bucharest,Romania,Yugoslavia
+6/10/1923,Sweden,Austria,4,2,Gothenburg,Sweden,Sweden
+6/16/1923,Australia,New Zealand,2,3,Sydney,Australia,New Zealand
+6/17/1923,Denmark,Switzerland,3,2,Copenhagen,Denmark,Denmark
+6/17/1923,Norway,Finland,3,0,Kristiania,Norway,Norway
+6/20/1923,Sweden,Finland,5,4,Gävle,Sweden,Sweden
+6/21/1923,Norway,Switzerland,2,2,Kristiania,Norway,drawn
+6/24/1923,Argentina,Uruguay,0,0,Buenos Aires,Argentina,drawn
+6/24/1923,Lithuania,Estonia,0,5,Kaunas,Lithuania,Estonia
+6/29/1923,Sweden,Germany,2,1,Stockholm,Sweden,Sweden
+6/30/1923,Australia,New Zealand,1,4,Newcastle,Australia,New Zealand
+7/1/1923,Romania,Czechoslovakia,0,6,Cluj,Romania,Czechoslovakia
+7/15/1923,Argentina,Uruguay,2,2,Buenos Aires,Argentina,drawn
+7/22/1923,Uruguay,Argentina,2,2,Montevideo,Uruguay,drawn
+7/24/1923,Estonia,Latvia,1,1,Tallinn,Estonia,drawn
+8/12/1923,Germany,Finland,1,2,Dresden,Germany,Finland
+8/15/1923,Austria,Finland,2,1,Vienna,Austria,Austria
+8/19/1923,Hungary,Finland,3,1,Budapest,Hungary,Hungary
+9/2/1923,Poland,Romania,1,1,Lwów,Poland,drawn
+9/16/1923,Norway,Sweden,2,3,Kristiania,Norway,Sweden
+9/18/1923,Estonia,Russia,2,4,Tallinn,Estonia,Russia
+9/23/1923,Finland,Poland,5,3,Helsinki,Finland,Finland
+9/23/1923,Hungary,Austria,2,0,Budapest,Hungary,Hungary
+9/25/1923,Estonia,Poland,1,4,Tallinn,Estonia,Poland
+9/30/1923,Denmark,Norway,2,1,Copenhagen,Denmark,Denmark
+9/30/1923,Estonia,Finland,2,1,Tallinn,Estonia,Estonia
+9/30/1923,Uruguay,Argentina,0,2,Montevideo,Uruguay,Argentina
+10/14/1923,Sweden,Denmark,1,3,Stockholm,Sweden,Denmark
+10/20/1923,Northern Ireland,England,2,1,Belfast,Northern Ireland,Northern Ireland
+10/26/1923,Turkey,Romania,2,2,Istanbul,Turkey,drawn
+10/28/1923,Czechoslovakia,Yugoslavia,4,4,Prague,Czechoslovakia,drawn
+10/28/1923,France,Norway,0,2,Paris,France,Norway
+10/28/1923,Hungary,Sweden,2,1,Budapest,Hungary,Hungary
+10/29/1923,Argentina,Paraguay,4,3,Montevideo,Uruguay,Argentina
+11/1/1923,Belgium,England,2,2,Antwerp,Belgium,drawn
+11/1/1923,Poland,Sweden,2,2,Cracow,Poland,drawn
+11/1/1923,Brittany,Norway,1,5,Rennes,France,Norway
+11/4/1923,Germany,Norway,1,0,Hamburg,Germany,Germany
+11/4/1923,Uruguay,Paraguay,2,0,Montevideo,Uruguay,Uruguay
+11/11/1923,Brazil,Paraguay,0,1,Montevideo,Uruguay,Paraguay
+11/18/1923,Argentina,Brazil,2,1,Montevideo,Uruguay,Argentina
+11/22/1923,Brazil,Paraguay,2,0,Montevideo,Uruguay,Brazil
+11/25/1923,Netherlands,Switzerland,4,1,Amsterdam,Netherlands,Netherlands
+11/25/1923,Uruguay,Brazil,2,1,Montevideo,Uruguay,Uruguay
+11/25/1923,Central Spain,Galicia,1,0,Madrid,Spain,Central Spain
+12/2/1923,Argentina,Brazil,0,2,Buenos Aires,Argentina,Brazil
+12/2/1923,Uruguay,Argentina,2,0,Montevideo,Uruguay,Uruguay
+12/3/1923,Argentina,Chile,6,0,Buenos Aires,Argentina,Argentina
+12/9/1923,Argentina,Brazil,2,0,Buenos Aires,Argentina,Argentina
+12/9/1923,Mexico,Guatemala,2,1,Mexico City,Mexico,Mexico
+12/12/1923,Mexico,Guatemala,2,0,Mexico City,Mexico,Mexico
+12/16/1923,Mexico,Guatemala,3,3,Mexico City,Mexico,drawn
+12/16/1923,Spain,Portugal,3,0,Seville,Spain,Spain
+1/13/1924,France,Belgium,2,0,Montrouge,France,France
+1/13/1924,Germany,Austria,4,3,Nuremberg,Germany,Germany
+1/20/1924,Italy,Austria,0,4,Genoa,Italy,Austria
+2/10/1924,Yugoslavia,Austria,1,4,Zagreb,Yugoslavia,Austria
+2/16/1924,Wales,Scotland,2,0,Cardiff,Wales,Wales
+3/1/1924,Scotland,Northern Ireland,2,0,Glasgow,Scotland,Scotland
+3/3/1924,England,Wales,1,2,Blackburn,England,Wales
+3/9/1924,Italy,Spain,0,0,Milan,Italy,drawn
+3/13/1924,Catalonia,Spain,0,7,Barcelona,Spain,Spain
+3/15/1924,Northern Ireland,Wales,0,1,Belfast,Northern Ireland,Wales
+3/23/1924,Netherlands,Belgium,1,1,Amsterdam,Netherlands,drawn
+3/23/1924,Switzerland,France,3,0,Geneva,Switzerland,Switzerland
+3/23/1924,Brittany,Luxembourg,1,1,Rennes,France,drawn
+4/6/1924,Aruba,Curaçao,0,4,Oranjestad,Aruba,Curaçao
+4/6/1924,Hungary,Italy,7,1,Budapest,Hungary,Hungary
+4/12/1924,England,Scotland,1,1,London,England,drawn
+4/21/1924,Netherlands,Germany,0,1,Amsterdam,Netherlands,Germany
+4/21/1924,Switzerland,Denmark,2,0,Basel,Switzerland,Switzerland
+4/27/1924,Belgium,Netherlands,1,1,Antwerp,Belgium,drawn
+5/4/1924,Hungary,Austria,2,2,Budapest,Hungary,drawn
+5/15/1924,Paraguay,Argentina,1,3,Asunción,Paraguay,Argentina
+5/17/1924,France,England,1,3,Vincennes,France,England
+5/18/1924,Paraguay,Argentina,2,1,Asunción,Paraguay,Paraguay
+5/18/1924,Sweden,Poland,5,1,Stockholm,Sweden,Sweden
+5/18/1924,Switzerland,Hungary,4,2,Zürich,Switzerland,Switzerland
+5/20/1924,Austria,Romania,4,1,Vienna,Austria,Austria
+5/21/1924,Austria,Bulgaria,6,0,Vienna,Austria,Austria
+5/25/1924,Argentina,Uruguay,4,0,Buenos Aires,Argentina,Argentina
+5/25/1924,Uruguay,Argentina,2,0,Montevideo,Uruguay,Uruguay
+5/27/1924,Egypt,Lithuania,10,0,Vincennes,France,Egypt
+6/4/1924,France,Hungary,0,1,Le Havre,France,Hungary
+6/7/1924,Australia,Canada,3,2,Brisbane,Australia,Australia
+6/10/1924,Poland,United States,2,3,Warsaw,Poland,United States
+6/14/1924,Australia,Canada,0,1,Sydney,Australia,Canada
+6/15/1924,Denmark,Sweden,2,3,Copenhagen,Denmark,Sweden
+6/15/1924,Norway,Germany,0,2,Kristiania,Norway,Germany
+6/15/1924,Catalonia,Basque Country,1,2,Barcelona,Spain,Basque Country
+6/17/1924,Finland,Turkey,2,4,Helsinki,Finland,Turkey
+6/19/1924,Estonia,Turkey,1,4,Tallinn,Estonia,Turkey
+6/22/1924,Austria,Egypt,3,1,Vienna,Austria,Austria
+6/22/1924,Latvia,Turkey,1,3,Riga,Latvia,Turkey
+6/23/1924,Australia,Canada,4,1,Sydney,Australia,Australia
+6/28/1924,Australia,Canada,0,0,Newcastle,Australia,drawn
+6/29/1924,Poland,Turkey,2,0,Łódź,Poland,Poland
+6/29/1924,Sweden,Egypt,5,0,Stockholm,Sweden,Sweden
+7/12/1924,Australia,Canada,1,4,Adelaide,Australia,Canada
+7/25/1924,Sweden,Estonia,5,2,Stockholm,Sweden,Sweden
+7/26/1924,Australia,Canada,1,0,Sydney,Australia,Australia
+7/28/1924,Finland,Sweden,5,7,Helsinki,Finland,Sweden
+8/10/1924,Poland,Finland,1,0,Warsaw,Poland,Poland
+8/14/1924,Latvia,Finland,0,2,Riga,Latvia,Finland
+8/23/1924,Finland,Norway,2,0,Helsinki,Finland,Finland
+8/24/1924,Estonia,Lithuania,1,2,Tallinn,Estonia,Lithuania
+8/31/1924,Czechoslovakia,Romania,4,1,Prague,Czechoslovakia,Czechoslovakia
+8/31/1924,Germany,Sweden,1,4,Berlin,Germany,Sweden
+8/31/1924,Hungary,Poland,4,0,Budapest,Hungary,Hungary
+9/14/1924,Austria,Hungary,2,1,Vienna,Austria,Austria
+9/14/1924,Finland,Estonia,4,0,Helsinki,Finland,Finland
+9/14/1924,Norway,Denmark,1,3,Kristiania,Norway,Denmark
+9/21/1924,Hungary,Germany,4,1,Budapest,Hungary,Hungary
+9/21/1924,Sweden,Norway,6,1,Solna,Sweden,Sweden
+9/21/1924,Uruguay,Argentina,1,1,Montevideo,Uruguay,drawn
+9/24/1924,Northern Ireland,South Africa,1,2,Belfast,Northern Ireland,South Africa
+9/28/1924,Yugoslavia,Czechoslovakia,0,2,Zagreb,Yugoslavia,Czechoslovakia
+10/2/1924,Argentina,Uruguay,2,1,Buenos Aires,Argentina,Argentina
+10/5/1924,Denmark,Belgium,2,1,Copenhagen,Denmark,Denmark
+10/12/1924,Argentina,Paraguay,0,0,Montevideo,Uruguay,drawn
+10/18/1924,Latvia,Estonia,2,0,Riga,Latvia,Latvia
+10/19/1924,Uruguay,Chile,5,0,Montevideo,Uruguay,Uruguay
+10/22/1924,England,Northern Ireland,3,1,Liverpool,England,England
+10/25/1924,Argentina,Chile,2,0,Montevideo,Uruguay,Argentina
+10/26/1924,Uruguay,Paraguay,3,1,Montevideo,Uruguay,Uruguay
+11/1/1924,Chile,Paraguay,1,3,Montevideo,Uruguay,Paraguay
+11/2/1924,Netherlands,South Africa,2,1,Amsterdam,Netherlands,Netherlands
+11/2/1924,Uruguay,Argentina,0,0,Montevideo,Uruguay,drawn
+11/9/1924,Austria,Sweden,1,1,Vienna,Austria,drawn
+11/11/1924,Belgium,France,3,0,Brussels,Belgium,Belgium
+11/16/1924,Italy,Sweden,2,2,Milan,Italy,drawn
+11/16/1924,Russia,Turkey,3,0,Moscow,Soviet Union,Russia
+11/23/1924,Germany,Italy,0,1,Duisburg,Germany,Italy
+12/8/1924,England,Belgium,4,0,West Bromwich,England,England
+12/14/1924,Germany,Switzerland,1,1,Stuttgart,Germany,drawn
+12/21/1924,Spain,Austria,2,1,Barcelona,Spain,Spain
+2/14/1925,Scotland,Wales,3,1,Edinburgh,Scotland,Scotland
+2/22/1925,Luxembourg,Brittany,1,1,Luxembourg,Luxembourg,drawn
+2/28/1925,Northern Ireland,Scotland,0,3,Belfast,Northern Ireland,Scotland
+2/28/1925,Wales,England,1,2,Swansea,Wales,England
+3/15/1925,Belgium,Netherlands,0,1,Antwerp,Belgium,Netherlands
+3/22/1925,Austria,Switzerland,2,0,Vienna,Austria,Austria
+3/22/1925,Haiti,Jamaica,1,2,Port-au-Prince,Haiti,Jamaica
+3/22/1925,Italy,France,7,0,Turin,Italy,Italy
+3/25/1925,Hungary,Switzerland,5,0,Budapest,Hungary,Hungary
+3/26/1925,Haiti,Jamaica,0,3,Port-au-Prince,Haiti,Jamaica
+3/29/1925,Haiti,Jamaica,0,1,Port-au-Prince,Haiti,Jamaica
+3/29/1925,Netherlands,Germany,2,1,Amsterdam,Netherlands,Netherlands
+4/4/1925,Scotland,England,2,0,Glasgow,Scotland,Scotland
+4/10/1925,Turkey,Bulgaria,2,1,Istanbul,Turkey,Turkey
+4/18/1925,Wales,Northern Ireland,0,0,Wrexham,Wales,drawn
+4/19/1925,France,Austria,0,4,Vincennes,France,Austria
+4/19/1925,Switzerland,Netherlands,4,1,Zürich,Switzerland,Switzerland
+5/1/1925,Romania,Turkey,1,2,Bucharest,Romania,Turkey
+5/3/1925,Netherlands,Belgium,5,0,Amsterdam,Netherlands,Netherlands
+5/5/1925,Austria,Hungary,3,1,Vienna,Austria,Austria
+5/15/1925,Turkey,Russia,1,2,Ankara,Turkey,Russia
+5/20/1925,China PR,Japan,2,0,Manila,Philippines,China PR
+5/21/1925,France,England,2,3,Colombes,France,England
+5/21/1925,Hungary,Belgium,1,3,Budapest,Hungary,Belgium
+5/22/1925,Philippines,China PR,1,5,Manila,Philippines,China PR
+5/24/1925,Czechoslovakia,Austria,3,1,Prague,Czechoslovakia,Czechoslovakia
+5/24/1925,Switzerland,Belgium,0,0,Lausanne,Switzerland,drawn
+5/31/1925,Bulgaria,Romania,2,4,Sofia,Bulgaria,Romania
+6/1/1925,Switzerland,Spain,0,3,Berne,Switzerland,Spain
+6/7/1925,Norway,Finland,1,0,Oslo,Norway,Norway
+6/9/1925,Sweden,Finland,4,0,Gothenburg,Sweden,Sweden
+6/14/1925,Spain,Italy,1,0,Valencia,Spain,Spain
+6/14/1925,Sweden,Denmark,0,2,Stockholm,Sweden,Denmark
+6/18/1925,Portugal,Italy,1,0,Lisbon,Portugal,Portugal
+6/21/1925,Denmark,Norway,5,1,Copenhagen,Denmark,Denmark
+6/21/1925,Sweden,Germany,1,0,Stockholm,Sweden,Sweden
+6/26/1925,Finland,Germany,3,5,Helsinki,Finland,Germany
+6/27/1925,Canada,United States,1,0,Montréal,Canada,Canada
+6/28/1925,Lithuania,Estonia,0,1,Kaunas,Lithuania,Estonia
+7/5/1925,Estonia,Finland,2,0,Tallinn,Estonia,Estonia
+7/5/1925,Sweden,Austria,2,4,Stockholm,Sweden,Austria
+7/9/1925,Argentina,Paraguay,1,1,Buenos Aires,Argentina,drawn
+7/10/1925,Finland,Austria,1,2,Helsinki,Finland,Austria
+7/12/1925,Argentina,Paraguay,1,1,Buenos Aires,Argentina,drawn
+7/12/1925,Sweden,Hungary,6,2,Stockholm,Sweden,Sweden
+7/14/1925,Uruguay,Paraguay,0,1,Montevideo,Uruguay,Paraguay
+7/18/1925,Uruguay,Paraguay,0,1,Montevideo,Uruguay,Paraguay
+7/19/1925,Poland,Hungary,0,2,Cracow,Poland,Hungary
+8/9/1925,Finland,Latvia,3,1,Helsinki,Finland,Finland
+8/15/1925,Paraguay,Uruguay,1,0,Asunción,Paraguay,Paraguay
+8/19/1925,Paraguay,Uruguay,0,1,Asunción,Paraguay,Uruguay
+8/23/1925,Norway,Sweden,3,7,Oslo,Norway,Sweden
+8/23/1925,Paraguay,Uruguay,0,0,Asunción,Paraguay,drawn
+8/26/1925,Estonia,Latvia,2,2,Tallinn,Estonia,drawn
+8/30/1925,Finland,Poland,2,2,Helsinki,Finland,drawn
+9/20/1925,Hungary,Austria,1,1,Budapest,Hungary,drawn
+9/20/1925,Latvia,Lithuania,2,2,Riga,Latvia,drawn
+9/27/1925,Austria,Spain,0,1,Vienna,Austria,Spain
+9/27/1925,Denmark,Finland,3,3,Århus,Denmark,drawn
+10/2/1925,Turkey,Poland,1,2,Istanbul,Turkey,Poland
+10/4/1925,Hungary,Spain,0,1,Budapest,Hungary,Spain
+10/11/1925,Czechoslovakia,Hungary,2,0,Prague,Czechoslovakia,Czechoslovakia
+10/24/1925,Northern Ireland,England,0,0,Belfast,Northern Ireland,drawn
+10/25/1925,Netherlands,Denmark,4,2,Amsterdam,Netherlands,Netherlands
+10/25/1925,Switzerland,Germany,0,4,Basel,Switzerland,Germany
+10/28/1925,Czechoslovakia,Yugoslavia,7,0,Prague,Czechoslovakia,Czechoslovakia
+10/31/1925,Wales,Scotland,0,3,Cardiff,Wales,Scotland
+11/1/1925,Poland,Sweden,2,6,Cracow,Poland,Sweden
+11/4/1925,Italy,Yugoslavia,2,1,Padua,Italy,Italy
+11/8/1925,Hungary,Italy,1,1,Budapest,Hungary,drawn
+11/8/1925,Switzerland,Austria,2,0,Berne,Switzerland,Switzerland
+11/8/1925,United States,Canada,6,1,New York,United States,United States
+11/29/1925,Argentina,Paraguay,2,0,Buenos Aires,Argentina,Argentina
+12/6/1925,Brazil,Paraguay,5,2,Buenos Aires,Argentina,Brazil
+12/13/1925,Argentina,Brazil,4,1,Buenos Aires,Argentina,Argentina
+12/13/1925,Belgium,Austria,3,4,Liège,Belgium,Austria
+12/13/1925,Catalonia,Czechoslovakia,2,1,Barcelona,Spain,Catalonia
+12/17/1925,Brazil,Paraguay,3,1,Buenos Aires,Argentina,Brazil
+12/20/1925,Argentina,Paraguay,3,1,Buenos Aires,Argentina,Argentina
+12/25/1925,Argentina,Brazil,2,2,Buenos Aires,Argentina,drawn
+1/17/1926,Italy,Czechoslovakia,3,1,Turin,Italy,Italy
+1/24/1926,Haiti,Curaçao,1,1,Port-au-Prince,Haiti,drawn
+1/31/1926,Haiti,Curaçao,0,1,Port-au-Prince,Haiti,Curaçao
+2/7/1926,Haiti,Curaçao,2,1,Port-au-Prince,Haiti,Haiti
+2/13/1926,Northern Ireland,Wales,3,0,Belfast,Northern Ireland,Northern Ireland
+2/14/1926,Belgium,Hungary,0,2,Brussels,Belgium,Hungary
+2/14/1926,Haiti,Curaçao,2,2,Port-au-Prince,Haiti,drawn
+2/27/1926,Scotland,Northern Ireland,4,0,Glasgow,Scotland,Scotland
+3/1/1926,England,Wales,1,3,London,England,Wales
+3/3/1926,Jamaica,Curaçao,2,0,Kingston,Jamaica,Jamaica
+3/14/1926,Austria,Czechoslovakia,2,0,Vienna,Austria,Austria
+3/14/1926,Belgium,Netherlands,1,1,Antwerp,Belgium,drawn
+3/21/1926,Italy,Republic of Ireland,3,0,Turin,Italy,Italy
+3/28/1926,Netherlands,Switzerland,5,0,Amsterdam,Netherlands,Netherlands
+4/11/1926,France,Belgium,4,3,Vincennes,France,France
+4/17/1926,England,Scotland,0,1,Manchester,England,Scotland
+4/18/1926,France,Portugal,4,2,Toulouse,France,France
+4/18/1926,Germany,Netherlands,4,2,Düsseldorf,Germany,Germany
+4/18/1926,Switzerland,Italy,1,1,Zürich,Switzerland,drawn
+4/25/1926,France,Switzerland,1,0,Colombes,France,France
+4/25/1926,Romania,Bulgaria,6,1,Bucharest,Romania,Romania
+5/1/1926,Kenya,Uganda,1,1,Nairobi,Kenya,drawn
+5/2/1926,Hungary,Austria,0,3,Budapest,Hungary,Austria
+5/2/1926,Netherlands,Belgium,1,5,Amsterdam,Netherlands,Belgium
+5/3/1926,Kenya,Uganda,2,1,Nairobi,Kenya,Kenya
+5/7/1926,Turkey,Romania,1,3,Istanbul,Turkey,Romania
+5/9/1926,Italy,Switzerland,3,2,Milan,Italy,Italy
+5/24/1926,Belgium,England,3,5,Antwerp,Belgium,England
+5/29/1926,Argentina,Paraguay,2,1,Buenos Aires,Argentina,Argentina
+5/30/1926,Austria,France,4,1,Vienna,Austria,Austria
+5/30/1926,Yugoslavia,Bulgaria,3,1,Zagreb,Yugoslavia,Yugoslavia
+6/3/1926,Argentina,Paraguay,2,1,Buenos Aires,Argentina,Argentina
+6/6/1926,Finland,Norway,2,5,Helsinki,Finland,Norway
+6/6/1926,Hungary,Czechoslovakia,2,1,Budapest,Hungary,Hungary
+6/9/1926,Sweden,Norway,3,2,Stockholm,Sweden,Sweden
+6/13/1926,Denmark,Netherlands,4,1,Copenhagen,Denmark,Denmark
+6/13/1926,Estonia,Lithuania,3,1,Tallinn,Estonia,Estonia
+6/13/1926,France,Yugoslavia,4,1,Colombes,France,France
+6/13/1926,Sweden,Czechoslovakia,2,2,Stockholm,Sweden,drawn
+6/20/1926,Belgium,France,2,2,Brussels,Belgium,drawn
+6/20/1926,Finland,Denmark,3,2,Helsinki,Finland,Finland
+6/20/1926,Germany,Sweden,3,3,Nuremberg,Germany,drawn
+6/28/1926,Yugoslavia,Czechoslovakia,2,6,Zagreb,Yugoslavia,Czechoslovakia
+7/3/1926,Czechoslovakia,Sweden,4,2,Prague,Czechoslovakia,Czechoslovakia
+7/4/1926,Poland,Estonia,2,0,Warsaw,Poland,Poland
+7/7/1926,Czechoslovakia,Catalonia,2,1,Prague,Czech Republic,Czechoslovakia
+7/18/1926,Sweden,Italy,5,3,Stockholm,Sweden,Sweden
+7/20/1926,Latvia,Sweden,4,1,Riga,Latvia,Latvia
+7/23/1926,Estonia,Sweden,1,7,Tallinn,Estonia,Sweden
+7/26/1926,Finland,Sweden,2,3,Helsinki,Finland,Sweden
+8/8/1926,Poland,Finland,7,1,Poznań,Poland,Poland
+8/12/1926,Latvia,Finland,1,4,Riga,Latvia,Finland
+8/20/1926,Hungary,Poland,4,1,Budapest,Hungary,Hungary
+8/21/1926,Lithuania,Latvia,2,3,Kaunas,Lithuania,Latvia
+9/5/1926,Finland,Estonia,1,1,Helsinki,Finland,drawn
+9/12/1926,Poland,Turkey,6,1,Lwów,Poland,Poland
+9/19/1926,Austria,Hungary,2,3,Vienna,Austria,Hungary
+9/19/1926,Latvia,Estonia,0,1,Riga,Latvia,Estonia
+9/19/1926,Norway,Denmark,2,2,Oslo,Norway,drawn
+9/28/1926,Czechoslovakia,Austria,1,2,Prague,Czechoslovakia,Austria
+10/3/1926,Denmark,Sweden,2,0,Copenhagen,Denmark,Denmark
+10/3/1926,Sweden,Poland,3,1,Stockholm,Sweden,Sweden
+10/3/1926,Yugoslavia,Romania,2,3,Zagreb,Yugoslavia,Romania
+10/10/1926,Austria,Switzerland,7,1,Vienna,Austria,Austria

@@ -1,0 +1,1001 @@
+﻿city,home_sum,home_won,away_won
+Antwerp,148.0,35.5,29.5
+Hanover,77.0,28.5,12.5
+Magdeburg,12.0,5.0,4.0
+Palermo,41.0,16.5,4.5
+Volgograd,13.0,4.0,3.0
+Morelia,2.0,1.0,1.0
+Bangalore,14.0,5.5,3.5
+Altenkirchen,1.0,0.0,1.0
+Mainz,15.0,2.0,1.0
+al-Hasa,3.0,1.0,0.0
+Perivólia,0.0,0.0,1.0
+Gijon,4.0,1.0,0.0
+Linz,18.0,5.5,6.5
+Shiraz,2.0,1.0,0.0
+Berat,0.0,0.5,0.5
+Tempe,4.0,1.5,0.5
+Ozolnieki,0.0,0.5,0.5
+Temuco,10.0,4.5,2.5
+Pégeia,1.0,1.0,0.0
+Voronezh,0.0,0.0,1.0
+Krubong,0.0,0.5,0.5
+Paya Rumput,10.0,4.0,3.0
+Mekele,0.0,0.0,1.0
+Wellington,28.0,8.5,10.5
+Cairo,443.0,177.0,87.0
+Casablanca,175.0,83.5,37.5
+Málaga,37.0,10.5,6.5
+Morphou,6.0,3.0,2.0
+Acapulco,2.0,1.0,0.0
+Kaiserslautern,34.0,10.5,5.5
+Arequipa,15.0,4.5,3.5
+Bourj Hammoud,1.0,1.0,0.0
+Badajoz,12.0,2.0,0.0
+Abuja,51.0,18.0,3.0
+Harrison,24.0,9.0,14.0
+Ta’if,14.0,4.5,0.5
+Kleve,1.0,0.0,1.0
+Georgetown,140.0,47.0,58.0
+Königsberg,7.0,2.0,0.0
+Fès,9.0,4.0,2.0
+Bethlehem,0.0,0.0,1.0
+Winnipeg,3.0,2.5,0.5
+Phoenix,5.0,2.5,1.5
+Kochi,3.0,0.0,2.0
+Jalan Besar,0.0,0.0,1.0
+Esch-sur-Alzette,10.0,2.0,10.0
+East Rutherford,87.0,37.5,30.5
+Gaborone,101.0,57.5,55.5
+Titova Mitrovica,2.0,1.0,0.0
+Umtali,0.0,0.0,1.0
+Bauchi,4.0,2.5,1.5
+Agadir,21.0,10.5,10.5
+Bastia Umbra,5.0,1.0,0.0
+Tamale,17.0,6.0,4.0
+Finström,10.0,2.5,0.5
+Salzburg,52.0,12.5,7.5
+Słupsk,7.0,2.0,0.0
+Guangzhou,99.0,32.0,10.0
+Speers Point,5.0,1.0,0.0
+Fardhem,17.0,3.5,4.5
+Ulaanbaatar,32.0,10.0,5.0
+Eckerö,12.0,2.5,3.5
+Anif,2.0,0.0,1.0
+Östersund,39.0,9.0,19.0
+Wels,3.0,1.0,0.0
+Salon-de-Provence,1.0,1.0,0.0
+Bissau,88.0,35.5,32.5
+Fortaleza,33.0,12.5,4.5
+Cocoa Beach,2.0,1.0,0.0
+Ho Chi Minh City,105.0,24.5,14.5
+Albufeira,1.0,0.0,1.0
+Sohar,0.0,0.0,1.0
+Lima,422.0,148.5,120.5
+Santos,0.0,0.0,1.0
+Ioannina,4.0,3.5,0.5
+Neuchâtel,6.0,3.0,2.0
+Pokhara,7.0,4.0,1.0
+Palo Alto,24.0,7.0,6.0
+Njeru,0.0,0.5,0.5
+Prague,472.0,139.0,57.0
+Madrid,194.0,59.5,22.5
+Gosford,2.0,1.0,0.0
+Namp'o,2.0,1.0,0.0
+Rybnik,3.0,1.0,0.0
+Klagenfurt,28.0,12.0,11.0
+Agía Nápa,2.0,0.5,1.5
+Jenin,8.0,1.0,0.0
+Århus,29.0,8.5,4.5
+San Cristóbal,106.0,29.0,24.0
+Bendigo,2.0,1.0,0.0
+Nizwa,2.0,1.5,0.5
+San José,550.0,179.5,71.5
+Port Louis,16.0,6.0,8.0
+Mashhad,1.0,1.0,1.0
+Púla,2.0,0.5,0.5
+Garoua,4.0,2.5,1.5
+Jablonec nad Nisou,1.0,1.0,0.0
+Zhongshan,2.0,1.5,0.5
+Reutlingen,1.0,0.5,1.5
+Fort Pierce,1.0,1.0,0.0
+Villach,2.0,1.0,2.0
+Shanklin,1.0,1.0,2.0
+Mayagüez,3.0,1.0,1.0
+Oliva,0.0,0.5,1.5
+Mauer,1.0,0.5,0.5
+New Cairo,6.0,2.0,0.0
+Seville,140.0,45.5,9.5
+Kaunas,76.0,29.0,39.0
+Karl-Marx-Stadt,26.0,9.0,0.0
+Podgorica,76.0,32.0,23.0
+Canberra,35.0,10.0,6.0
+Anaheim,13.0,4.0,1.0
+Montecatini Terme,2.0,1.0,1.0
+Ulm,3.0,1.0,0.0
+Nanchang,1.0,0.5,0.5
+Rohrbach an der Lafnitz,1.0,0.5,0.5
+Slough,9.0,1.5,1.5
+Gävle,5.0,1.0,0.0
+Roseau,107.0,36.0,28.0
+Curitiba,27.0,9.0,8.0
+Salonica,39.0,13.0,15.0
+Novi Sad,28.0,8.0,1.0
+Miami Gardens,22.0,8.0,12.0
+Kyoto,4.0,1.5,1.5
+Cap-Haïtien,1.0,1.0,2.0
+Ayutthaya,4.0,1.5,0.5
+Hammarland,19.0,5.5,1.5
+Winterthur,0.0,0.0,1.0
+Senlis,3.0,1.0,0.0
+Valenciennes,3.0,1.0,0.0
+Ústí nad Labem,3.0,1.0,0.0
+Karbala,1.0,0.5,0.5
+Stoke-on-Trent,13.0,3.0,0.0
+Ottawa,1.0,0.0,2.0
+Potsdam,12.0,2.0,0.0
+Riffa,215.0,81.5,54.5
+Greensboro,0.0,0.5,0.5
+Coquimbo,14.0,4.0,2.0
+el-Jadida,2.0,2.0,0.0
+Lookout,6.0,2.5,3.5
+Kielce,11.0,2.5,0.5
+Urziceni,1.0,1.0,0.0
+Edinburgh,43.0,13.5,4.5
+Djibouti,23.0,7.0,23.0
+Košice,26.0,10.0,2.0
+Messina,3.0,2.0,0.0
+Kuressaare,9.0,4.5,1.5
+Sunderland,31.0,6.0,5.0
+Tallinn,224.0,83.5,102.5
+Campo Grande,7.0,3.5,1.5
+Dallas,43.0,16.0,10.0
+Oruro,9.0,3.0,1.0
+Singapore,287.0,94.0,82.0
+Saltvik,4.0,2.0,1.0
+Chamazi,0.0,0.0,1.0
+Juba,15.0,4.5,4.5
+Rotherhithe,6.0,2.0,1.0
+Łódź,39.0,11.5,6.5
+Nice,27.0,11.0,4.0
+Adana,4.0,3.0,1.0
+Dalian,9.0,3.0,3.0
+Misurata,7.0,2.5,0.5
+Manchester,80.0,23.0,13.0
+Bradford,4.0,1.0,0.0
+Kénitra,2.0,0.5,0.5
+Braga,16.0,7.5,5.5
+Oakland,27.0,8.5,9.5
+Arles,0.0,0.0,1.0
+Khujand,3.0,1.5,0.5
+Bucheon,3.0,1.0,0.0
+Adelaide,82.0,20.5,15.5
+Jakarta,506.0,140.5,98.5
+Benghazi,72.0,19.5,11.5
+Taranto,4.0,1.0,0.0
+Radès,104.0,41.5,18.5
+Durrës,3.0,2.0,0.0
+Issy-les-Moulineaux,3.0,1.0,1.0
+Santander,13.0,6.0,1.0
+Antibes,0.0,0.0,1.0
+Libreville,263.0,113.5,66.5
+Enugu,3.0,2.0,0.0
+Montpellier,20.0,8.5,3.5
+Dunajská Streda,2.0,0.5,0.5
+Brzeszcze,1.0,0.5,0.5
+Avignon,2.0,0.5,1.5
+Chiang Mai,25.0,8.0,3.0
+Šibenik,2.0,0.5,0.5
+Tianjin,23.0,7.5,3.5
+Jinan,18.0,5.0,4.0
+Saint-Nazaire,0.0,0.0,1.0
+Corbeil-Essonnes,2.0,0.0,2.0
+Rostov-on-Don,13.0,3.5,3.5
+Al Ram,4.0,2.5,1.5
+Frankfurt,6.0,1.0,0.0
+Fort-de-France,230.0,71.5,48.5
+Almaty,65.0,19.5,25.5
+Ulsan,20.0,8.0,3.0
+Mission Viejo,16.0,3.0,1.0
+Cuenca,13.0,5.5,3.5
+Toulon,2.0,1.0,3.0
+Jericho,0.0,0.5,0.5
+Ancona,4.0,2.5,0.5
+Abha,11.0,3.0,0.0
+Wuhan,23.0,10.5,4.5
+Scarborough,2.0,0.0,2.0
+Taunusstein,0.0,0.5,0.5
+Longjumeau,1.0,0.5,0.5
+al-Ubayyid,1.0,0.0,1.0
+Beijing,195.0,57.5,30.5
+Ruse,1.0,0.0,1.0
+Maturín,21.0,7.0,1.0
+Veracruz,7.0,2.5,0.5
+Åland,39.0,13.5,2.5
+Kretinga,1.0,0.5,0.5
+Neiva,3.0,1.0,0.0
+Puerto Cortés,12.0,2.5,0.5
+Fukuroi,12.0,4.0,3.0
+Centre de Flacq,0.0,0.0,2.0
+Jūrmala,0.0,0.0,1.0
+Salalah,3.0,1.5,0.5
+Benguela,20.0,8.5,4.5
+Prishtina,5.0,2.5,0.5
+Limeil-Brévannes,2.0,1.0,0.0
+St Gallen,1.0,1.0,0.0
+Colombes,174.0,43.0,46.0
+Paysandú,18.0,5.0,4.0
+Veliko Tărnovo,1.0,1.0,0.0
+Fukuoka,5.0,2.0,1.0
+Aveiro,20.0,5.5,2.5
+Salmiya,3.0,1.0,0.0
+Grenoble,2.0,1.0,0.0
+Secunda,1.0,1.0,7.0
+Lisbon,227.0,80.0,36.0
+San Fernando,85.0,33.0,16.0
+Kingston upon Hull,1.0,0.5,0.5
+São Luís,11.0,3.5,0.5
+Leiria,27.0,9.0,4.0
+San Antonio,15.0,6.5,2.5
+Jastrzębie-Zdrój,1.0,1.0,0.0
+Siófok,6.0,2.0,1.0
+Güzelyurt,5.0,1.0,2.0
+Aubervilliers,0.0,0.5,0.5
+Wattens,1.0,1.0,1.0
+Sivas,0.0,0.0,1.0
+Christchurch,23.0,5.5,5.5
+Alexandria,145.0,51.0,22.0
+Coventry,1.0,0.5,0.5
+Akureyri,6.0,2.0,0.0
+Palmerston North,5.0,1.0,0.0
+Chula Vista,1.0,0.0,1.0
+Nova Gorica,2.0,0.0,2.0
+Offenbach am Main,2.0,1.5,1.5
+Atteridgeville,11.0,5.5,3.5
+Franceville,26.0,14.5,10.5
+Rajshahi,1.0,1.0,0.0
+Stockholm,231.0,51.0,29.0
+Tegucigalpa,223.0,94.0,43.0
+Turku,17.0,8.5,6.5
+Philadelphia,16.0,8.5,4.5
+Rabat,156.0,60.0,15.0
+Petaling Jaya,28.0,8.0,4.0
+Kharkiv,17.0,7.0,4.0
+George Town,94.0,26.5,35.5
+Amman,300.0,128.0,90.0
+Jubail,2.0,1.0,0.0
+Strumica,8.0,3.0,1.0
+Goyang,11.0,3.0,1.0
+Askeran,8.0,3.0,2.0
+Ivory Coast,4.0,2.0,0.0
+Rwanda,1.0,1.0,1.0
+Auckland,179.0,48.0,28.0
+Baghdad,299.0,92.5,33.5
+Akdoğan,1.0,1.0,2.0
+Fullerton,13.0,7.0,4.0
+Bondoufle,1.0,1.0,1.0
+Chantilly,1.0,0.0,1.0
+Sund,11.0,3.0,1.0
+Sankt Veit an der Glan,3.0,1.0,0.0
+al-Rayyan,4.0,2.0,0.0
+Sandy,7.0,3.5,0.5
+el-Gouna,7.0,2.0,0.0
+Jurong West,5.0,1.0,0.0
+Suita,4.0,1.0,2.0
+Gera,11.0,5.0,0.0
+Bata,39.0,20.5,13.5
+Liberec,20.0,4.0,0.0
+Tete,0.0,0.0,1.0
+Schwaz,0.0,0.0,2.0
+Kapfenberg,0.0,0.5,0.5
+Dili,0.0,0.0,4.0
+Glasgow,614.0,215.5,106.5
+Los Angeles,191.0,71.5,85.5
+Borovo,2.0,1.0,0.0
+Obuasi,1.0,0.5,1.5
+Morogoro,3.0,2.0,1.0
+Port el-Kantaoui,1.0,0.5,0.5
+Wuppertal,2.0,1.0,0.0
+Zanzibar,72.0,18.5,42.5
+Toluca,22.0,8.5,4.5
+Gweru,1.0,0.5,0.5
+Monastir,36.0,14.0,6.0
+Chiclayo,10.0,2.5,2.5
+Mutare,0.0,0.5,0.5
+Vitsebsk,3.0,1.0,0.0
+Livorno,0.0,0.0,1.0
+Modena,8.0,3.0,0.0
+Herning,7.0,3.5,0.5
+Bucaramanga,5.0,1.0,0.0
+Bridgeview,6.0,3.0,0.0
+Sulaymaniyah,1.0,1.0,1.0
+Meyrin,0.0,0.0,1.0
+Mongomo,8.0,3.0,3.0
+Erfurt,12.0,4.0,2.0
+Sarajevo,65.0,24.0,20.0
+Ernakulam,16.0,4.5,9.5
+Mar del Plata,21.0,8.5,7.5
+Ta'if,46.0,15.5,6.5
+Margao,32.0,12.0,10.0
+Neskaupstaður,2.0,1.0,0.0
+Abovyan,3.0,2.0,0.0
+Gangtok,3.0,1.0,0.0
+Yona,28.0,6.5,3.5
+Versailles,15.0,2.0,0.0
+Olmaliq,0.0,0.0,1.0
+Limbe,7.0,3.0,1.0
+Lille,6.0,2.0,1.0
+Belgrade,414.0,128.5,61.5
+Bologna,71.0,20.5,9.5
+Papeete,220.0,40.5,27.5
+São José do Rio Preto,8.0,1.0,0.0
+Jwaneng,1.0,0.0,1.0
+Höfn,1.0,1.0,0.0
+Ventspils,4.0,2.0,1.0
+Brentford,4.0,2.0,1.0
+Melun,2.0,1.0,3.0
+Grödig,0.0,0.5,1.5
+Luzern,5.0,1.0,0.0
+Moscow,415.0,154.5,65.5
+Luleå,2.0,0.5,0.5
+Arima,39.0,11.0,8.0
+Wakefield,2.0,1.0,0.0
+Agilat,2.0,1.0,0.0
+Cusco,1.0,0.0,1.0
+Freetowm,4.0,2.0,0.0
+Villeneuve D'Ascq,3.0,1.0,0.0
+Belfast,389.0,136.5,158.5
+Oslo,512.0,171.5,154.5
+Clermont-Ferrand,0.0,0.0,1.0
+Ciudad Juárez,4.0,1.0,1.0
+Siena,2.0,1.0,0.0
+Gennevilliers,8.0,1.0,1.0
+Chemnitz,7.0,2.0,0.0
+Caracas,39.0,14.5,22.5
+Nantes,44.0,15.0,4.0
+Santo Domingo,46.0,13.0,14.0
+Sandefjord,1.0,0.5,0.5
+Rivera,13.0,5.5,2.5
+Chennai,2.0,0.5,0.5
+Iquique,2.0,1.0,0.0
+Blackburn,6.0,1.5,3.5
+Cardiff,229.0,89.5,92.5
+Ploieşti,17.0,5.5,0.5
+Nakuru,10.0,6.0,2.0
+Jeddah,204.0,52.5,20.5
+Harare,194.0,89.5,39.5
+Gøta,6.0,1.0,1.0
+Marsa,1.0,0.0,1.0
+Puerto Ordaz,20.0,7.5,8.5
+La Courneuve,9.0,3.0,3.0
+Moquegua,1.0,1.0,0.0
+Molepolole,9.0,3.0,1.0
+Bochum,17.0,4.0,3.0
+Le Havre,7.0,3.5,3.5
+Szczecin,26.0,7.0,2.0
+Ascoli Piceno,2.0,1.0,0.0
+Chalcis,2.0,1.0,0.0
+Nanjing,5.0,3.0,2.0
+Uccle,7.0,1.0,0.0
+Marseille,55.0,20.5,13.5
+Stettin,5.0,1.0,0.0
+Odesa,6.0,4.5,1.5
+Kobe,28.0,14.0,5.0
+Brandenburg,2.0,1.0,0.0
+Białystok,3.0,1.0,0.0
+Savanna-la-Mar,2.0,1.0,0.0
+Zhengzhou,0.0,0.0,1.0
+Sur,2.0,1.0,0.0
+Bocaue,10.0,4.0,3.0
+Visé,0.0,0.0,1.0
+Säve,7.0,1.0,3.0
+Trondheim,18.0,6.0,2.0
+Deventer,8.0,1.0,0.0
+Lobamba,62.0,27.0,32.0
+Zabrze,7.0,3.0,3.0
+Umm al-Fahm,3.0,0.5,0.5
+Xi'an,14.0,4.5,2.5
+Olhão,0.0,0.5,1.5
+Freshwater,4.0,0.0,3.0
+Al Rayyan,1.0,0.5,0.5
+Al-Ain,0.0,0.5,0.5
+Dublin,477.0,178.5,114.5
+Liepāja,11.0,5.0,3.0
+Maseru,90.0,45.5,56.5
+Chuncheon,3.0,1.0,0.0
+Gisborne,3.0,1.0,0.0
+Davidson,3.0,1.0,0.0
+Pomona,2.0,0.0,1.0
+Big Bend,1.0,1.5,1.5
+Wakayama,2.0,1.0,0.0
+Gossau,3.0,1.0,0.0
+Sekondi,16.0,6.0,2.0
+Equatorial Guinea,1.0,0.5,0.5
+Congo DR,4.0,1.0,0.0
+Dundee,8.0,2.5,1.5
+Colombo,81.0,28.5,39.5
+Victoria,124.0,39.0,41.0
+Lomé,192.0,86.5,51.5
+Vitoria-Gasteiz,5.0,1.0,1.0
+Wollongong,2.0,1.0,1.0
+Väskinde,19.0,4.5,4.5
+Cleveland,18.0,4.0,2.0
+Limerick,1.0,1.0,1.0
+Jiangyin,2.0,0.5,0.5
+Xuçand,1.0,0.5,0.5
+Thanyaburi,1.0,0.5,0.5
+Berlin,122.0,45.0,27.0
+Kuala Lumpur,1110.0,339.5,249.5
+San Diego,50.0,19.5,15.5
+Quito,174.0,63.5,29.5
+San Francisco,16.0,6.0,6.0
+Mufalira,4.0,1.0,0.0
+Cannes,10.0,6.0,1.0
+Les Abymes,63.0,20.5,13.5
+Nashville,12.0,5.5,2.5
+Würzburg,0.0,0.5,0.5
+Aïn Draham,2.0,2.0,0.0
+Hisor,3.0,1.5,0.5
+Macau,76.0,17.0,28.0
+Eskilstuna,3.0,0.5,0.5
+Kuwait City,576.0,203.0,134.0
+Gwangju,19.0,6.5,3.5
+Chengdu,32.0,10.5,6.5
+Mapou,11.0,3.0,8.0
+Batumi,2.0,1.0,0.0
+Mopti,2.0,0.5,3.5
+Krasnodar,14.0,3.5,4.5
+Bushbuckridge,1.0,0.0,2.0
+Sochi,28.0,8.5,3.5
+Awasa,3.0,1.0,0.0
+Queretaro,0.0,0.0,1.0
+Penafiel,2.0,1.0,0.0
+Bilbao,73.0,23.5,8.5
+Ankara,55.0,17.5,12.5
+Bamako,271.0,117.5,55.5
+Leningrad,8.0,3.0,0.0
+Pointe-à-Pierre,1.0,0.5,0.5
+Pereira,8.0,5.0,1.0
+Constanţa,25.0,9.0,3.0
+Portoviejo,10.0,3.5,1.5
+Hagätña,16.0,3.0,0.0
+Vittel,1.0,0.5,0.5
+Tbilisi,145.0,57.0,45.0
+Kuopio,5.0,1.5,1.5
+Acarigua,1.0,1.0,0.0
+Lubumbashi,7.0,3.0,5.0
+L'viv,41.0,15.0,3.0
+Matsumoto,1.0,1.5,0.5
+Novara,4.0,2.0,0.0
+Chenzhou,0.0,0.5,0.5
+Francistown,9.0,5.0,4.0
+Zagreb,245.0,81.5,30.5
+Santa Cruz,47.0,17.0,15.0
+Calicut,2.0,1.5,0.5
+Sittard,8.0,3.0,1.0
+Yiwu,0.0,0.5,0.5
+Alverca do Ribatejo,3.0,0.5,0.5
+Levallois-Perret,2.0,1.0,0.0
+Detroit,5.0,2.0,0.0
+Sintra,1.0,0.5,0.5
+Ritzing,1.0,0.5,0.5
+Yverdon-les-Bains,0.0,0.0,1.0
+al-Hamriyah,1.0,0.5,0.5
+Ekaterinburg,3.0,1.5,2.5
+Nuremberg,70.0,21.5,6.5
+Karachi,35.0,12.0,14.0
+Lárisa,4.0,2.0,1.0
+Portland,13.0,4.5,0.5
+Murcia,11.0,4.0,1.0
+Jomala,27.0,7.0,2.0
+Rotterdam,324.0,96.5,34.5
+Saarbrücken,13.0,3.0,6.0
+Luanda,184.0,84.0,37.0
+Dire Dawa,16.0,6.0,1.0
+Jinja,31.0,10.0,4.0
+Toyama,1.0,0.0,1.0
+San Carlos,5.0,1.0,0.0
+Terrassa,2.0,1.0,0.0
+Qarshi,0.0,0.5,0.5
+San Salvador de Jujuy,1.0,1.0,1.0
+Florence,78.0,27.0,10.0
+Dodoma,17.0,7.5,2.5
+Sandur,6.0,2.0,0.0
+Polokwane,41.0,18.5,18.5
+Germiston,2.0,1.0,0.0
+al-Ramm,3.0,1.5,1.5
+Lesotho,1.0,1.0,1.0
+London,830.0,279.0,116.0
+Lagos,224.0,82.5,27.5
+Oulu,1.0,0.5,0.5
+Heerenveen,1.0,1.5,0.5
+Parramatta,2.0,1.0,2.0
+Xánthi,1.0,0.5,0.5
+Woumé,3.0,1.0,0.0
+Sankt Pölten,4.0,1.0,2.0
+Saint George's,7.0,2.0,1.0
+Haifa,34.0,11.0,8.0
+San Pedro Sula,165.0,58.0,26.0
+Windhoek,144.0,59.0,52.0
+João Pessoa,0.0,0.5,0.5
+Qyzylorda,2.0,1.0,0.0
+Paralímni,11.0,5.5,2.5
+Costebelle,0.0,0.0,1.0
+Kunshan,2.0,1.0,0.0
+Roodepoort,2.0,1.0,1.0
+Mumbai,13.0,4.0,3.0
+Willemstad,260.0,85.5,53.5
+Addis Abeba,330.0,125.0,83.0
+Esbjerg,6.0,1.5,2.5
+Minsk,87.0,36.0,34.0
+Verona,13.0,5.0,3.0
+Palma de Mallorca,7.0,4.0,1.0
+Aarau,1.0,1.0,0.0
+St. Sampson,61.0,15.5,14.5
+Kayes,5.0,2.5,0.5
+al-Wakrah,16.0,5.0,4.0
+Le Touquet-Paris-Plage,1.0,1.0,0.0
+Le Petit-Quevilly,5.0,2.5,0.5
+Mandalay,10.0,3.5,2.5
+St. Louis,22.0,8.0,2.0
+Cotonou,148.0,56.0,53.0
+Chingola,18.0,6.0,3.0
+Gurjaani,6.0,1.0,0.0
+Ashdod,6.0,2.0,0.0
+Pretoria,15.0,6.0,12.0
+Seongnam,0.0,0.5,0.5
+Latacunga,3.0,1.0,0.0
+Valence,1.0,0.5,1.5
+Hawalli,5.0,2.0,0.0
+Motherwell,5.0,1.0,0.0
+Gentilly,0.0,0.0,1.0
+Lucerne,37.0,13.5,4.5
+Nitra,9.0,3.5,0.5
+Bergamo,7.0,2.0,2.0
+Celje,20.0,8.5,9.5
+Bry-sur-Marne,5.0,1.5,0.5
+Tursunzoda,3.0,1.0,2.0
+La Marsa,0.0,0.0,1.0
+Leonora,14.0,4.0,0.0
+Majadahonda,2.0,1.0,0.0
+Brisbane,93.0,26.5,14.5
+Saint-Pierre,46.0,15.5,23.5
+Honiara,148.0,40.0,26.0
+Marigot,17.0,6.5,2.5
+Sucre,11.0,6.0,1.0
+Mamoutzou,1.0,0.5,0.5
+Évora,4.0,1.0,0.0
+Orapa,0.0,0.5,0.5
+Umlazi,2.0,1.0,0.0
+Talcahuano,2.0,1.0,0.0
+Lifou,2.0,1.0,0.0
+Võru,6.0,1.5,0.5
+Stenkyrka,6.0,2.5,1.5
+Samara,3.0,1.5,4.5
+Birmingham,28.0,14.5,6.5
+Tokyo,181.0,54.5,35.5
+Sydney,210.0,70.0,29.0
+San Salvador,364.0,111.5,64.5
+Jerusalem,23.0,7.0,8.0
+Kassala,10.0,5.0,1.0
+Koror,4.0,2.0,1.0
+Abeokuta,3.0,2.0,0.0
+Ramsey,3.0,1.0,2.0
+Kecskemét,2.0,0.5,0.5
+Cornellà de Llobregat,1.0,0.5,1.5
+Santa Clara,12.0,4.5,3.5
+St. John,3.0,1.0,1.0
+Vienna,665.0,202.0,134.0
+Dresden,30.0,11.0,6.0
+Tel Aviv,19.0,3.5,3.5
+Khartoum,173.0,71.0,39.0
+Nagoya,7.0,2.5,2.5
+Chonburi,0.0,0.0,1.0
+Mielec,5.0,2.5,1.5
+Hempstead,0.0,0.5,0.5
+Rose Hill,0.0,0.5,1.5
+Maladzečna,2.0,0.5,0.5
+Jerez,4.0,1.0,0.0
+Estepona,8.0,2.0,0.0
+Pernis,1.0,1.0,0.0
+Vila Real de Santo António,2.0,0.5,4.5
+Buriram,8.0,3.5,1.5
+Dededo,28.0,9.5,7.5
+Thanh Hóa,2.0,1.0,0.0
+Pristina,18.0,7.0,3.0
+Kilmarnock,8.0,3.0,1.0
+Burnley,1.0,0.0,1.0
+So Kon Po,200.0,59.5,65.5
+Graz,53.0,16.0,10.0
+Klaksvík,4.0,3.0,2.0
+Larnaca,69.0,27.0,30.0
+The Valley,17.0,4.0,21.0
+La Serena,10.0,4.0,2.0
+Perth,10.0,3.0,1.0
+Kilkís,2.0,1.0,0.0
+Palmerstone North,0.0,0.5,0.5
+Cebu,0.0,0.5,0.5
+Harbin,1.0,0.5,0.5
+Užice,2.0,1.0,0.0
+Benin,2.0,0.5,0.5
+Västerås,9.0,1.5,2.5
+Antananarivo,194.0,57.0,36.0
+Wad Madani,8.0,2.5,3.5
+Yerevan,110.0,37.0,51.0
+Lubin,4.0,2.5,0.5
+Saint John,0.0,0.0,1.0
+St. Lawrence,12.0,4.5,2.5
+Dornbirn,0.0,0.0,1.0
+Amanvillers,1.0,0.0,1.0
+Salahaddin,5.0,1.0,1.0
+Derby,17.0,4.0,0.0
+Paramaribo,383.0,107.5,54.5
+Byton,3.0,0.5,0.5
+Limassol,96.0,33.0,45.0
+Leicester,4.0,2.0,2.0
+Jaffna,1.0,0.5,0.5
+Alcochete,0.0,0.0,1.0
+San Pedro de Alcántara,1.0,0.5,0.5
+Ahmedabad,13.0,3.5,3.5
+Irvine,2.0,0.0,3.0
+Zaragoza,13.0,4.5,3.5
+St. John's,178.0,52.5,40.5
+Keflavík,9.0,1.0,0.0
+Moanda,0.0,1.0,2.0
+Wodzisław Śląski,1.0,1.0,0.0
+Quetzaltenango,3.0,2.0,0.0
+Gabès,0.0,0.5,0.5
+Burton on Trent,0.0,0.0,1.0
+Andorra la Vella,3.0,2.5,6.5
+Düsseldorf,64.0,20.5,12.5
+Charleroi,16.0,4.5,2.5
+Lokeren,1.0,0.5,0.5
+Arusha,32.0,16.0,14.0
+Sandavágur,4.0,0.0,1.0
+Luque,19.0,8.5,3.5
+Shah Alam,59.0,18.5,20.5
+Anshan,3.0,1.0,0.0
+Moruleng,18.0,7.0,6.0
+Kuwait,1.0,0.5,0.5
+Bradenton,0.0,0.0,2.0
+Kristiania,40.0,11.5,15.5
+Arad,8.0,2.5,2.5
+Durban,93.0,38.0,28.0
+Monterrey,62.0,22.0,12.0
+Uberlândia,12.0,3.5,0.5
+Gdańsk,18.0,6.0,7.0
+Xiaogan,0.0,0.5,0.5
+Columbus,19.0,9.5,3.5
+Rivière-Pilote,24.0,7.0,6.0
+Charkiv,0.0,0.5,0.5
+Selayang,0.0,0.5,0.5
+Fitzwilliam,7.0,1.5,0.5
+Bucharest,487.0,159.0,71.0
+Mexico City,535.0,173.0,51.0
+Xinjing,13.0,1.0,4.0
+Isa Town,27.0,10.5,10.5
+Logroño,10.0,2.5,0.5
+Masvingo,2.0,1.0,1.0
+Zouérat,0.0,0.0,1.0
+Crewe,6.0,1.5,0.5
+Kingston,399.0,149.5,89.5
+Cosenza,5.0,1.0,0.0
+São Tomé,17.0,7.5,12.5
+Maldonado,21.0,5.0,3.0
+Rhodes,3.0,1.0,2.0
+Leverkusen,30.0,7.5,0.5
+Maribor,43.0,16.5,6.5
+Port Erin,4.0,0.0,2.0
+Sikasso,7.0,5.5,2.5
+Phang Nga,1.0,0.5,0.5
+Chittagong,14.0,6.5,4.5
+Nonthaburi,5.0,1.5,1.5
+Salé,2.0,1.0,0.0
+Cluj,6.0,3.5,3.5
+Tunis,396.0,147.5,75.5
+Kyïv,152.0,63.0,28.0
+Kisumu,4.0,3.0,2.0
+Vaasa,2.0,1.0,1.0
+Dammam,106.0,34.5,12.5
+Daegu,31.0,11.5,6.5
+Okayama,2.0,1.0,0.0
+Caen,6.0,2.0,1.0
+Tabriz,44.0,6.0,1.0
+Enschede,3.0,1.0,0.0
+Sedan,2.0,1.0,0.0
+Thun,3.0,1.0,0.0
+Tampere,36.0,14.0,9.0
+Zomba,32.0,10.5,2.5
+Kotka,4.0,1.5,0.5
+Alajuela,32.0,11.0,5.0
+Kalamáta,8.0,3.0,0.0
+Aswan,21.0,6.0,2.0
+Mariehamn,5.0,1.0,1.0
+Matrei in Osttirol,1.0,0.5,0.5
+Kolkota,1.0,0.5,0.5
+Vincennes,18.0,2.5,4.5
+Capesterre-Belle-Eau,1.0,0.0,2.0
+Kuantan,4.0,2.0,4.0
+Peshawar,15.0,4.0,6.0
+Goiânia,50.0,17.5,6.5
+Washington,97.0,34.0,24.0
+Timişoara,6.0,3.0,3.0
+Achna,3.0,1.0,1.0
+Bielefeld,1.0,1.0,1.0
+Gijón,30.0,10.5,2.5
+Cape Town,43.0,15.5,20.5
+N'Djamena,57.0,22.5,21.5
+Cottbus,6.0,1.0,1.0
+Foggia,2.0,1.0,0.0
+Chililabombwe,14.0,8.0,4.0
+Korçë,0.0,0.5,0.5
+Cascais,0.0,0.5,0.5
+Uyo,17.0,6.5,2.5
+Asaba,1.0,2.0,1.0
+Soweto,0.0,0.0,1.0
+Lausanne,61.0,19.5,25.5
+La Coruña,23.0,8.0,3.0
+Pirae,16.0,4.0,7.0
+Shenyang,18.0,8.5,1.5
+Foshan,7.0,1.0,0.0
+Konya,9.0,4.0,2.0
+Zaporizhia,1.0,1.0,0.0
+Sandviken,8.0,2.5,0.5
+Naples,56.0,21.5,12.5
+Yamoussoukro,1.0,1.0,0.0
+Bin Ghashir,3.0,2.0,0.0
+Pisa,5.0,3.5,0.5
+Bishkek,47.0,20.5,14.5
+Nicoya,1.0,0.0,1.0
+Carson,57.0,22.0,12.0
+Freiburg,34.0,6.0,1.0
+Bathurst,4.0,1.0,1.0
+Cheongju,0.0,0.0,1.0
+Pasadena,56.0,24.0,18.0
+Catania,4.0,2.0,0.0
+Ghent,7.0,2.5,0.5
+Paroi,3.0,2.5,1.5
+Tangiers,7.0,4.0,4.0
+Växjö,4.0,1.5,0.5
+Mogadishu,15.0,7.0,10.0
+al-Ain,29.0,11.0,11.0
+Kenitra,1.0,0.5,1.5
+Praia,114.0,47.5,27.5
+Sion,8.0,3.0,3.0
+Portimão,2.0,1.0,0.0
+Beira,10.0,4.5,0.5
+P'yŏngyang,15.0,8.5,2.5
+Cheonan,9.0,3.5,0.5
+Cape Coast,2.0,1.0,0.0
+Paris,321.0,117.0,55.0
+Maisons-Alfort,0.0,0.0,1.0
+Brazzaville,220.0,77.5,55.5
+Gagny,7.0,2.5,0.5
+Sucoma,1.0,1.0,0.0
+Saint-Gratien,19.0,3.5,2.5
+Malang,3.0,2.0,0.0
+Thủ Dầu Một,6.0,1.0,0.0
+Bogor,4.0,2.0,0.0
+Nigeria,2.0,1.0,0.0
+Semarang,1.0,0.0,1.0
+Lens,34.0,12.5,8.5
+Duncanville,0.0,0.0,1.0
+Rookley,6.0,1.0,0.0
+Malacca City,0.0,0.0,1.0
+Cork,3.0,1.0,2.0
+Halmstad,12.0,4.5,2.5
+Ouagadougou,256.0,101.0,61.0
+Vejle,3.0,1.0,0.0
+Nyíregyháza,5.0,3.0,0.0
+Rijeka,38.0,15.5,1.5
+Prilep,6.0,4.5,0.5
+Piura,6.0,2.0,1.0
+Gama,6.0,1.0,0.0
+Kayseri,11.0,3.0,0.0
+Kazan,18.0,6.0,6.0
+Horsens,5.0,1.0,0.0
+Villa Tunari,2.0,0.5,0.5
+Ibadan,31.0,13.0,4.0
+Fuglafjørður,3.0,1.0,1.0
+Concepción,29.0,9.0,1.0
+Baku,72.0,33.0,49.0
+Kano,14.0,6.0,3.0
+Hartberg,4.0,2.0,1.0
+Beersheba,4.0,2.0,1.0
+Nausori,86.0,12.5,4.5
+Hunedoara,3.0,1.0,0.0
+Elche,30.0,8.5,1.5
+Pori,1.0,1.0,0.0
+Vicenza,1.0,1.0,0.0
+West Bay,4.0,1.0,1.0
+Plymouth,3.0,1.0,0.0
+Breda,0.0,0.0,1.0
+Suzhou,1.0,1.5,0.5
+Chongqing,22.0,7.0,8.0
+Bonneuil-sur-Marne,4.0,1.0,0.0
+Carouge,4.0,1.0,0.0
+Gisenyi,6.0,4.0,5.0
+Koprivnica,1.0,1.0,0.0
+Eskişehir,8.0,3.0,1.0
+Hamburg,86.0,31.5,20.5
+Guayaquil,133.0,46.5,40.5
+Lautoka,41.0,13.0,10.0
+Uddevalla,2.0,2.0,1.0
+Chicago,83.0,27.5,16.5
+Grassau,1.0,0.5,0.5
+Auxerre,11.0,2.0,0.0
+Hermosillo,1.0,0.0,1.0
+Cremona,2.0,0.5,0.5
+Dhahran,3.0,1.0,0.0
+Chaves,4.0,2.0,0.0
+Seogwipo,11.0,4.5,1.5
+Clairfontaine,0.0,0.5,0.5
+Morne-à-l'Eau,2.0,1.0,0.0
+Nelspruit,35.0,14.5,8.5
+Mitrovica,5.0,1.5,1.5
+Ballarat,1.0,1.0,0.0
+Athens,221.0,76.0,57.0
+Rostock,25.0,7.0,2.0
+Zenica,98.0,34.5,15.5
+Burgas,10.0,3.0,5.0
+Suwon,58.0,20.0,7.0
+Foxborough,100.0,35.5,17.5
+Ségou,15.0,8.0,4.0
+Gżira,24.0,9.0,22.0
+Lyon,40.0,16.5,12.5
+Balzers,0.0,0.0,3.0
+Ismailia,31.0,12.5,9.5
+Tampa,26.0,9.0,5.0
+Pontiac,9.0,3.0,3.0
+Diriamba,2.0,1.0,6.0
+Loja,3.0,1.0,0.0
+Gällivare,11.0,4.0,3.0
+Jurong,6.0,2.0,1.0
+Paisley,7.0,2.0,0.0
+Genoa,62.0,22.0,13.0
+La Chorrera,8.0,3.5,1.5
+Ljubljana,91.0,34.0,28.0
+Drammen,1.0,0.5,0.5
+Manzini,11.0,8.0,9.0
+Prievidza,2.0,1.0,0.0
+Tottori,0.0,0.0,1.0
+Balkanabat,3.0,2.0,0.0
+Sainte-Marie,1.0,0.5,0.5
+Glendale,22.0,10.0,3.0
+Xewkija,5.0,2.0,4.0
+Koné,3.0,1.5,0.5
+Riyadh,304.0,125.0,86.0
+Texcoco,1.0,0.5,0.5
+Danlí,1.0,1.0,0.0
+Sidon,39.0,9.5,10.5
+Tacna,10.0,3.0,3.0
+Saint-Joseph,2.0,0.5,0.5
+Le Lamentin,29.0,4.5,2.5
+Jessore,8.0,2.5,0.5
+Viborg,2.0,1.0,0.0
+Suez,7.0,3.5,4.5
+Sheffield,42.0,10.5,4.5
+Newark,4.0,1.0,2.0
+Bridgetown,204.0,82.0,67.0
+Bremen,21.0,6.5,3.5
+Olsztyn,2.0,1.0,0.0
+Balchik,2.0,1.0,0.0
+Trujillo,6.0,3.0,1.0
+Aix-en-Provence,1.0,0.0,2.0
+Dreux,2.0,1.0,0.0
+Espargos,5.0,1.0,0.0
+Addu City,9.0,4.0,2.0
+Molenbeek,1.0,0.0,1.0
+Haringey,18.0,3.0,3.0
+Llagostera,2.0,1.0,1.0
+Riga,217.0,75.0,84.0
+Sfax,29.0,13.0,4.0
+Fort Lauderdale,41.0,15.5,12.5
+Belmopan,17.0,6.5,7.5
+Lecce,6.0,2.0,2.0
+Heredia,12.0,2.0,1.0
+Mahajanga,4.0,2.5,1.5
+Saulspoort,1.0,1.0,0.0
+Lalitpur,1.0,0.5,1.5
+Guimaraes,2.0,1.0,2.0
+Milan,161.0,55.5,13.5
+Duisburg,11.0,1.5,4.5
+Montréal,19.0,7.5,8.5
+P'yongyang,82.0,33.0,11.0
+La Línea de la Concepción,7.0,2.0,1.0
+Cesena,9.0,3.0,0.0
+Uzhhorod,1.0,0.0,1.0
+Tula,1.0,0.5,0.5
+Peralada,0.0,0.5,0.5
+Culiacán,1.0,0.5,0.5
+Chon Buri,5.0,1.0,0.0
+Arbil,53.0,11.0,5.0
+Bromley,10.0,3.0,1.0
+Arnhem,11.0,5.0,5.0
+Manama,76.0,31.0,32.0
+Castellón de la Plana,3.0,1.5,0.5
+Gəncə,4.0,3.0,0.0
+Bełchatów,2.0,0.5,1.5
+Piatra Neamţ,10.0,3.5,0.5
+Altach,3.0,0.5,1.5
+Al-Khader,9.0,1.0,0.0
+Felcsút,2.0,1.0,0.0
+Istanbul,221.0,83.5,58.5
+Porto,111.0,42.0,19.0
+Toronto,71.0,29.5,23.5
+Porto-Novo,7.0,4.5,5.5
+Incheon,49.0,11.0,5.0
+Târgu Mureș,3.0,1.0,0.0
+Campinas,2.0,1.0,0.0
+Songkhla,15.0,7.0,4.0
+Viseu,10.0,3.0,0.0
+Koper,3.0,1.5,2.5
+Donets'k,5.0,3.0,7.0
+Pula,8.0,3.0,0.0
+Wiesbaden,0.0,0.0,1.0
+Lviv,9.0,4.0,0.0
+Annaba,46.0,19.5,9.5
+Heraklion,20.0,9.0,1.0
+Châteauroux,0.0,0.0,1.0
+Sleman,2.0,1.0,2.0
+Niger,0.0,0.0,1.0
+Rangoon,103.0,43.5,33.5
+Titograd,4.0,1.0,2.0
+Halle,13.0,4.5,1.5
+Granada,26.0,8.0,2.0
+Antalya,32.0,16.0,22.0
+Managua,30.0,10.0,12.0
+St. Peter Port,3.0,1.5,0.5
+Saint-Leu-la-Forêt,15.0,7.0,3.0
+Kelsterbach,0.0,0.5,0.5
+Hwaseong,20.0,3.5,1.5
+Senec,2.0,1.0,0.0
+Barcelona,106.0,41.5,35.5
+Landskrona,5.0,2.0,3.0
+Belo Horizonte,69.0,25.5,11.5
+Stavanger,10.0,3.5,2.5
+Eschen,4.0,1.5,10.5
+Reggio di Calabria,6.0,2.0,0.0
+Le Gosier,2.0,0.5,0.5
+Palembang,17.0,4.5,0.5
+Malmberget,12.0,3.0,2.0
+Mantes-la-Ville,3.0,2.0,0.0
+İzmit,1.0,1.0,0.0
+Bekasi,0.0,0.5,0.5
+Calabar,15.0,6.5,1.5
+Bakau,40.0,21.5,21.5
+Terni,0.0,0.5,0.5
+Kozáni,1.0,1.0,0.0
+Blois,1.0,0.0,1.0
+al-Ram,2.0,1.0,0.0
+San Pedro,1.0,1.0,0.0
+Kitwe,65.0,19.0,12.0
+Asmara,22.0,12.0,13.0
+Split,32.0,11.0,9.0
+Senftenberg,5.0,1.0,0.0
+Guimarães,19.0,4.0,4.0
+Vélez-Málaga,3.0,1.0,0.0
+Hrodna,5.0,1.0,0.0
+Calama,3.0,1.0,0.0
+Marcory,2.0,1.0,0.0
+Kira,3.0,2.5,0.5
+Eupen,2.0,0.5,0.5
+Warsaw,267.0,86.0,45.0
+Jaffa,55.0,20.0,20.0
+Mbabane,27.0,12.0,25.0
+Kathmandu,130.0,48.0,40.0
+Beit She'an,2.0,1.0,0.0
+Torreón,5.0,2.0,1.0
+al-Ahsa,3.0,1.0,0.0
+Zhodzina,1.0,0.5,0.5
+Guadalajara,57.0,20.5,16.5
+Damanhur,4.0,1.0,2.0
+Meknès,1.0,1.5,0.5
+Bandar Seri Begawan,10.0,3.0,7.0
+Latakia,4.0,3.5,1.5
+Belém,7.0,3.5,0.5
+Jablonec nad Nisou nad Nisou,3.0,2.0,0.0
+Bodø,1.0,0.5,0.5
+West Palm Beach,1.0,0.5,0.5
+Newport,11.0,3.0,2.0
+Asuncion,2.0,1.0,0.0
